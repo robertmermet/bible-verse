@@ -1,0 +1,54 @@
+html, body {
+	margin: 0;
+	height: 100%;
+	position: relative;
+}
+
+div {
+	margin: 0;
+	width: 70%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+p {
+	font-size: 48px;
+	user-select: none;
+}
+
+p#verse {
+	text-align: center;
+}
+
+span.red {
+	color: #E60026;
+}
+
+span.small-caps {
+	font-variant: small-caps;
+}
+
+@media screen and (min-width: 1000px) {
+	div {
+		width: 60%;
+	}
+
+	p {
+		font-size: 36px;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	div {
+		width: 50%;
+	}
+}
+
+@media screen and (min-width: 1400px) {
+	div {
+		width: 40%;
+	}
+}
