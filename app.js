@@ -409,7 +409,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Luke 9:55-56',
-				t: 'But he turned, and rebuked them, and said, <span class="red">Ye know not what manner of spirit ye are of. For the Son of man is not come to destroy men\'s lives, but to save them. And they went to another village.</span>'
+				t: 'But he turned, and rebuked them, and said, <span class="red">Ye know not what manner of spirit ye are of. For the Son of man is not come to destroy men\'s lives, but to save them.</span> And they went to another village.'
 			},
 			{
 				v: 'Luke 11:33',
