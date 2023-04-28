@@ -134,6 +134,30 @@ window.addEventListener('load', function load() {
 				t: 'But he answered and said, <span class="red">It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.</span>'
 			},
 			{
+				v: 'Matthew 5:3',
+				t: '<span class="red">Blessed are the poor in spirit: for theirs is the kingdom of heaven.</span>'
+			},
+			{
+				v: 'Matthew 5:4',
+				t: '<span class="red">Blessed are they that mourn: for they shall be comforted.</span>'
+			},
+			{
+				v: 'Matthew 5:5',
+				t: '<span class="red">Blessed are the meek: for they shall inherit the earth.</span>'
+			},
+			{
+				v: 'Matthew 5:6',
+				t: '<span class="red">Blessed are they which do hunger and thirst after righteousness: for they shall be filled.</span>'
+			},
+			{
+				v: 'Matthew 5:7',
+				t: '<span class="red">Blessed are the merciful: for they shall obtain mercy.</span>'
+			},
+			{
+				v: 'Matthew 5:8',
+				t: '<span class="red">Blessed are the pure in heart: for they shall see God.</span>'
+			},
+			{
 				v: 'Matthew 5:9',
 				t: '<span class="red">Blessed are the peacemakers: for they shall be called the children of God.</span>'
 			},
@@ -142,8 +166,44 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.</span>'
 			},
 			{
+				v: 'Matthew 5:13',
+				t: '<span class="red">Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.</span>'
+			},
+			{
+				v: 'Matthew 5:14',
+				t: '<span class="red">Ye are the light of the world. A city that is set on an hill cannot be hid.</span>'
+			},
+			{
+				v: 'Matthew 5:16',
+				t: '<span class="red">Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.</span>'
+			},
+			{
+				v: 'Matthew 5:17',
+				t: '<span class="red">Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.</span>'
+			},
+			{
 				v: 'Matthew 5:27-28',
 				t: '<span class="red">Ye have heard that it was said by them of old time, Thou shalt not commit adultery: But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.</span>'
+			},
+			{
+				v: 'Matthew 6:1',
+				t: '<span class="red">Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.</span>'
+			},
+			{
+				v: 'Matthew 6:19-21',
+				t: '<span class="red">Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal: For where your treasure is, there will your heart be also.</span>'
+			},
+			{
+				v: 'Matthew 6:33',
+				t: '<span class="red">But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.</span>'
+			},
+			{
+				v: 'Matthew 7:1-2',
+				t: '<span class="red">Judge not, that ye be not judged. For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.</span>'
+			},
+			{
+				v: 'Matthew 7:7-8',
+				t: '<span class="red">Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.</span>'
 			},
 			{
 				v: 'Matthew 7:12',
@@ -156,6 +216,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Matthew 7:15',
 				t: '<span class="red">Beware of false prophets, which come to you in sheep\'s clothing, but inwardly they are ravening wolves.</span>'
+			},
+			{
+				v: 'Matthew 7:21',
+				t: '<span class="red">Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.</span>'
 			},
 			{
 				v: 'Matthew 10:16',
@@ -178,8 +242,16 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">So the last shall be first, and the first last: for many be called, but few chosen.</span>'
 			},
 			{
+				v: 'Matthew 22:37-39',
+				t: 'Jesus said unto him, <span class="red">Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself.</span>'
+			},
+			{
 				v: 'Matthew 25:13',
 				t: '<span class="red">Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.</span>'
+			},
+			{
+				v: 'Matthew 25:31',
+				t: '<span class="red">When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:</span>'
 			},
 			{
 				v: 'Matthew 28:18',
@@ -407,6 +479,10 @@ window.addEventListener('load', function load() {
 				t: 'Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them. For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.'
 			},
 			// 1 Corinthians
+			{
+				v: '1 Corinthians 6:9-10',
+				t: 'Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind, Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.'
+			},
 			{
 				v: '1 Corinthians 12:3',
 				t: 'Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost.'
