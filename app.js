@@ -182,28 +182,108 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.</span>'
 			},
 			{
+				v: 'Matthew 5:18',
+				t: '<span class="red">For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.</span>'
+			},
+			{
+				v: 'Matthew 5:19',
+				t: '<span class="red">Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven.</span>'
+			},
+			{
+				v: 'Matthew 5:22',
+				t: '<span class="red">But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.</span>'
+			},
+			{
+				v: 'Matthew 5:25',
+				t: '<span class="red">Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.</span>'
+			},
+			{
 				v: 'Matthew 5:27-28',
 				t: '<span class="red">Ye have heard that it was said by them of old time, Thou shalt not commit adultery: But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.</span>'
+			},
+			{
+				v: 'Matthew 5:29',
+				t: '<span class="red">And if thy right eye offend thee, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.</span>'
+			},
+			{
+				v: 'Matthew 5:30',
+				t: '<span class="red">And if thy right hand offend thee, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.</span>'
+			},
+			{
+				v: 'Matthew 5:36-37',
+				t: '<span class="red">Neither shalt thou swear by thy head, because thou canst not make one hair white or black. But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.</span>'
+			},
+			{
+				v: 'Matthew 5:38-39',
+				t: '<span class="red">Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth: But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.</span>'
+			},
+			{
+				v: 'Matthew 5:40-41',
+				t: '<span class="red">And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also. And whosoever shall compel thee to go a mile, go with him twain.</span>'
+			},
+			{
+				v: 'Matthew 5:44-45',
+				t: '<span class="red">But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you; That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.</span>'
 			},
 			{
 				v: 'Matthew 6:1',
 				t: '<span class="red">Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.</span>'
 			},
 			{
+				v: 'Matthew 6:3-4',
+				t: '<span class="red">But when thou doest alms, let not thy left hand know what thy right hand doeth: That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.</span>'
+			},
+			{
+				v: 'Matthew 6:6',
+				t: '<span class="red">But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.</span>'
+			},
+			{
+				v: 'Matthew 6:7',
+				t: '<span class="red">But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking.</span>'
+			},
+			{
+				v: 'Matthew 6:17-18',
+				t: '<span class="red">But thou, when thou fastest, anoint thine head, and wash thy face; That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.</span>'
+			},
+			{
 				v: 'Matthew 6:19-21',
 				t: '<span class="red">Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal: For where your treasure is, there will your heart be also.</span>'
+			},
+			{
+				v: 'Matthew 6:22-23',
+				t: '<span class="red">The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light. But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!</span>'
+			},
+			{
+				v: 'Matthew 6:24',
+				t: '<span class="red">No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.</span>'
+			},
+			{
+				v: 'Matthew 6:26',
+				t: '<span class="red">Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?</span>'
 			},
 			{
 				v: 'Matthew 6:33',
 				t: '<span class="red">But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.</span>'
 			},
 			{
+				v: 'Matthew 6:34',
+				t: '<span class="red">Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.</span>'
+			},
+			{
 				v: 'Matthew 7:1-2',
 				t: '<span class="red">Judge not, that ye be not judged. For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.</span>'
 			},
 			{
+				v: 'Matthew 7:6',
+				t: '<span class="red">Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.</span>'
+			},
+			{
 				v: 'Matthew 7:7-8',
 				t: '<span class="red">Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.</span>'
+			},
+			{
+				v: 'Matthew 7:9-11',
+				t: '<span class="red">Or what man is there of you, whom if his son ask bread, will he give him a stone? Or if he ask a fish, will he give him a serpent? If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?</span>'
 			},
 			{
 				v: 'Matthew 7:12',
@@ -218,8 +298,20 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">Beware of false prophets, which come to you in sheep\'s clothing, but inwardly they are ravening wolves.</span>'
 			},
 			{
+				v: 'Matthew 7:18-20',
+				t: '<span class="red">A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit. Every tree that bringeth not forth good fruit is hewn down, and cast into the fire. Wherefore by their fruits ye shall know them.</span>'
+			},
+			{
 				v: 'Matthew 7:21',
 				t: '<span class="red">Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.</span>'
+			},
+			{
+				v: 'Matthew 7:22-23',
+				t: '<span class="red">Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.</span>'
+			},
+			{
+				v: 'Matthew 7:24-25',
+				t: '<span class="red">Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock: And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.</span>'
 			},
 			{
 				v: 'Matthew 10:16',
