@@ -19,6 +19,10 @@ window.addEventListener('load', function load() {
 			},
 			// Deuteronomy
 			{
+				v: 'Deuteronomy 6:4',
+				t: 'Hear, O Israel: The <span class="small-caps">Lord</span> our God is one <span class="small-caps">Lord</span>:'
+			},
+			{
 				v: 'Deuteronomy 31:6',
 				t: 'Be strong and of a good courage, fear not, nor be afraid of them: for the <span class="small-caps">Lord</span> thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.'
 			},
@@ -95,6 +99,22 @@ window.addEventListener('load', function load() {
 				t: 'To the law and to the testimony: if they speak not according to this word, it is because there is no light in them.'
 			},
 			{
+				v: 'Isaiah 9:6',
+				t: 'For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.'
+			},
+			{
+				v: 'Isaiah 53:4',
+				t: 'Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.'
+			},
+			{
+				v: 'Isaiah 53:5',
+				t: 'But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.'
+			},
+			{
+				v: 'Isaiah 53:6',
+				t: 'All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all.'
+			},
+			{
 				v: 'Isaiah 55:7',
 				t: 'Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the <span class="small-caps">Lord</span>, and he will have mercy upon him; and to our God, for he will abundantly pardon.'
 			},
@@ -120,6 +140,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Matthew 5:11-12',
 				t: '<span class="red">Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.</span>'
+			},
+			{
+				v: 'Matthew 5:27-28',
+				t: '<span class="red">Ye have heard that it was said by them of old time, Thou shalt not commit adultery: But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.</span>'
 			},
 			{
 				v: 'Matthew 7:12',
@@ -281,12 +305,20 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">I and my Father are one.</span>'
 			},
 			{
+				v: 'John 13:34',
+				t: '<span class="red">A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.</span>'
+			},
+			{
 				v: 'John 14:1',
 				t: '<span class="red">Let not your heart be troubled: ye believe in God, believe also in me.</span>'
 			},
 			{
 				v: 'John 14:6',
 				t: 'Jesus saith unto him, <span class="red">I am the way, the truth, and the life: no man cometh unto the Father, but by me.</span>'
+			},
+			{
+				v: 'John 14:15',
+				t: '<span class="red">If ye love me, keep my commandments.</span>'
 			},
 			{
 				v: 'John 15:18',
@@ -323,6 +355,10 @@ window.addEventListener('load', function load() {
 			},
 			// Romans
 			{
+				v: 'Romans 3:10',
+				t: 'As it is written, There is none righteous, no, not one:'
+			},
+			{
 				v: 'Romans 3:23-24',
 				t: 'For all have sinned, and come short of the glory of God; Being justified freely by his grace through the redemption that is in Christ Jesus:'
 			},
@@ -343,12 +379,24 @@ window.addEventListener('load', function load() {
 				t: 'For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.'
 			},
 			{
+				v: 'Romans 8:1',
+				t: 'There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.'
+			},
+			{
 				v: 'Romans 8:28',
 				t: 'And we know that all things work together for good to them that love God, to them who are the called according to his purpose.'
 			},
 			{
 				v: 'Romans 10:9',
 				t: 'That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.'
+			},
+			{
+				v: 'Romans 10:13',
+				t: 'For whosoever shall call upon the name of the Lord shall be saved.'
+			},
+			{
+				v: 'Romans 12:2',
+				t: 'And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.'
 			},
 			{
 				v: 'Romans 12:19',
@@ -375,6 +423,10 @@ window.addEventListener('load', function load() {
 			{
 				v: '2 Corinthians 4:5',
 				t: 'For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus\' sake.'
+			},
+			{
+				v: '2 Corinthians 5:7',
+				t: 'Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.'
 			},
 			{
 				v: '2 Corinthians 9:6',
