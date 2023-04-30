@@ -17,6 +17,10 @@ window.addEventListener('load', function load() {
 				v: 'Numbers 6:24-26',
 				t: 'The <span class="small-caps">Lord</span> bless thee, and keep thee: The <span class="small-caps">Lord</span> make his face shine upon thee, and be gracious unto thee: The <span class="small-caps">Lord</span> lift up his countenance upon thee, and give thee peace.'
 			},
+			{
+				v: 'Numbers 14:18',
+				t: 'The <span class="small-caps">Lord</span> is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation.'
+			},
 			// Deuteronomy
 			{
 				v: 'Deuteronomy 6:4',
@@ -162,6 +166,10 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">Blessed are the peacemakers: for they shall be called the children of God.</span>'
 			},
 			{
+				v: 'Matthew 5:10',
+				t: '<span class="red">Blessed are they which are persecuted for righteousness\' sake: for theirs is the kingdom of heaven.</span>'
+			},
+			{
 				v: 'Matthew 5:11-12',
 				t: '<span class="red">Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.</span>'
 			},
@@ -226,12 +234,20 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you; That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.</span>'
 			},
 			{
+				v: 'Matthew 5:48',
+				t: '<span class="red">Be ye therefore perfect, even as your Father which is in heaven is perfect.</span>'
+			},
+			{
 				v: 'Matthew 6:1',
 				t: '<span class="red">Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.</span>'
 			},
 			{
 				v: 'Matthew 6:3-4',
 				t: '<span class="red">But when thou doest alms, let not thy left hand know what thy right hand doeth: That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.</span>'
+			},
+			{
+				v: 'Matthew 6:5',
+				t: '<span class="red">And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.</span>'
 			},
 			{
 				v: 'Matthew 6:6',
@@ -318,6 +334,18 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.</span>'
 			},
 			{
+				v: 'Matthew 10:28',
+				t: '<span class="red">And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.</span>'
+			},
+			{
+				v: 'Matthew 10:32',
+				t: '<span class="red">Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.</span>'
+			},
+			{
+				v: 'Matthew 10:34',
+				t: '<span class="red">Think not that I am come to send peace on earth: I came not to send peace, but a sword.</span>'
+			},
+			{
 				v: 'Matthew 11:28',
 				t: '<span class="red">Come unto me, all ye that labour and are heavy laden, and I will give you rest.</span>'
 			},
@@ -326,16 +354,64 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke is easy, and my burden is light.</span>'
 			},
 			{
+				v: 'Matthew 16:26',
+				t: '<span class="red">For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?</span>'
+			},
+			{
+				v: 'Matthew 16:27',
+				t: '<span class="red">For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.</span>'
+			},
+			{
+				v: 'Matthew 17:20',
+				t: '<span class="red">And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.</span>'
+			},
+			{
+				v: 'Matthew 18:3',
+				t: '<span class="red">And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.</span>'
+			},
+			{
 				v: 'Matthew 18:11',
 				t: '<span class="red">For the Son of man is come to save that which was lost.</span>'
+			},
+			{
+				v: 'Matthew 18:20',
+				t: '<span class="red">For where two or three are gathered together in my name, there am I in the midst of them.</span>'
+			},
+			{
+				v: 'Matthew 19:26',
+				t: 'But Jesus beheld them, and said unto them, <span class="red">With men this is impossible; but with God all things are possible.</span>'
 			},
 			{
 				v: 'Matthew 20:16',
 				t: '<span class="red">So the last shall be first, and the first last: for many be called, but few chosen.</span>'
 			},
 			{
+				v: 'Matthew 20:28',
+				t: '<span class="red">Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.</span>'
+			},
+			{
 				v: 'Matthew 22:37-39',
 				t: 'Jesus said unto him, <span class="red">Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself.</span>'
+			},
+			{
+				v: 'Matthew 23:37',
+				t: '<span class="red">O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!</span>'
+			},
+			{
+				v: 'Matthew 24:14',
+				t: '<span class="red">And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.</span>'
+			},
+			{
+				v: 'Matthew 24:24',
+				t: '<span class="red">For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect.</span>'
+			},
+			{
+				v: 'Matthew 24:30',
+				t: '<span class="red">And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.</span>'
+			},
+			{
+				v: 'Matthew 24:35-36',
+				t: '<span class="red">Heaven and earth shall pass away, but my words shall not pass away. But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only.</span>'
 			},
 			{
 				v: 'Matthew 25:13',
@@ -344,6 +420,14 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Matthew 25:31',
 				t: '<span class="red">When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:</span>'
+			},
+			{
+				v: 'Matthew 25:34',
+				t: '<span class="red">Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:</span>'
+			},
+			{
+				v: 'Matthew 25:35-36',
+				t: '<span class="red">For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in: Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.</span>'
 			},
 			{
 				v: 'Matthew 28:18',
@@ -416,6 +500,10 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">No man, when he hath lighted a candle, putteth it in a secret place, neither under a bushel, but on a candlestick, that they which come in may see the light.</span>'
 			},
 			{
+				v: 'Luke 22:36',
+				t: 'Then said he unto them, <span class="red">But now, he that hath a purse, let him take it, and likewise his scrip: and he that hath no sword, let him sell his garment, and buy one.</span>'
+			},
+			{
 				v: 'Luke 23:34',
 				t: 'Then said Jesus, <span class="red">Father, forgive them; for they know not what they do.</span> And they parted his raiment, and cast lots.'
 			},
@@ -483,6 +571,18 @@ window.addEventListener('load', function load() {
 			{
 				v: 'John 14:15',
 				t: '<span class="red">If ye love me, keep my commandments.</span>'
+			},
+			{
+				v: 'John 14:27',
+				t: '<span class="red">Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.</span>'
+			},
+			{
+				v: 'John 15:5',
+				t: '<span class="red">I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.</span>'
+			},
+			{
+				v: 'John 15:13',
+				t: '<span class="red">Greater love hath no man than this, that a man lay down his life for his friends.</span>'
 			},
 			{
 				v: 'John 15:18',
