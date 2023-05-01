@@ -4,8 +4,24 @@ window.addEventListener('load', function load() {
 	const BIBLE_VERSES = [
 			// Genesis
 			{
+				v: 'Genesis 1:1',
+				t: 'In the beginning God created the heaven and the earth.'
+			},
+			{
+				v: 'Genesis 1:3',
+				t: 'And God said, Let there be light: and there was light.'
+			},
+			{
+				v: 'Genesis 1:26',
+				t: 'And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.'
+			},
+			{
 				v: 'Genesis 1:27',
 				t: 'So God created man in his own image, in the image of God created he him; male and female created he them.'
+			},
+			{
+				v: 'Genesis 2:23-24',
+				t: 'And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man. Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.'
 			},
 			// Leviticus
 			{
@@ -35,6 +51,20 @@ window.addEventListener('load', function load() {
 				v: 'Joshua 1:9',
 				t: 'Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the <span class="small-caps">Lord</span> thy God is with thee whithersoever thou goest.'
 			},
+			// 1 Chronicles
+			{
+				v: '1 Chronicles 16:11',
+				t: 'Seek the <span class="small-caps">Lord</span> and his strength, seek his face continually.'
+			},
+			// 2 Chronicles
+			{
+				v: '2 Chronicles 7:14',
+				t: 'If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.'
+			},
+			{
+				v: '2 Chronicles 15:7',
+				t: 'Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded.'
+			},
 			// Psalms
 			{
 				v: 'Psalm 1:1',
@@ -57,6 +87,10 @@ window.addEventListener('load', function load() {
 				t: 'I have set the <span class="small-caps">Lord</span> always before me: because he is at my right hand, I shall not be moved.'
 			},
 			{
+				v: 'Psalm 17:8-9',
+				t: 'Keep me as the apple of the eye, hide me under the shadow of thy wings, From the wicked that oppress me, from my deadly enemies, who compass me about.'
+			},
+			{
 				v: 'Psalm 19:1',
 				t: 'The heavens declare the glory of God; and the firmament sheweth his handywork.'
 			},
@@ -67,6 +101,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Psalm 23:1',
 				t: 'The <span class="small-caps">Lord</span> is my shepherd; I shall not want.'
+			},
+			{
+				v: 'Psalm 23:4',
+				t: 'Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.'
 			},
 			{
 				v: 'Psalm 27:1',
@@ -103,6 +141,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Psalm 127:3',
 				t: 'Lo, children are an heritage of the <span class="small-caps">Lord</span>: and the fruit of the womb is his reward.'
+			},
+			{
+				v: 'Psalm 145:19-21',
+				t: 'He will fulfil the desire of them that fear him: he also will hear their cry, and will save them. The <span class="small-caps">Lord</span> preserveth all them that love him: but all the wicked will he destroy. My mouth shall speak the praise of the <span class="small-caps">Lord</span>: and let all flesh bless his holy name for ever and ever.'
 			},
 			// Proverbs
 			{
@@ -229,6 +271,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Isaiah 9:6',
 				t: 'For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.'
+			},
+			{
+				v: 'Isaiah 40:31',
+				t: 'But they that wait upon the <span class="small-caps">Lord</span> shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.'
 			},
 			{
 				v: 'Isaiah 53:4',
@@ -677,6 +723,10 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">And ye shall know the truth, and the truth shall make you free.</span>'
 			},
 			{
+				v: 'John 10:11',
+				t: '<span class="red">I am the good shepherd: the good shepherd giveth his life for the sheep.</span>'
+			},
+			{
 				v: 'John 10:30',
 				t: '<span class="red">I and my Father are one.</span>'
 			},
@@ -730,6 +780,10 @@ window.addEventListener('load', function load() {
 			},
 			// Acts
 			{
+				v: 'Acts 1:8',
+				t: '<span class="red">But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.</span>'
+			},
+			{
 				v: 'Acts 2:38',
 				t: 'Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.'
 			},
@@ -740,6 +794,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Acts 20:29',
 				t: 'For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.'
+			},
+			{
+				v: 'Acts 20:35',
+				t: 'I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, <span class="red">It is more blessed to give than to receive.</span>'
 			},
 			// Romans
 			{
@@ -804,6 +862,10 @@ window.addEventListener('load', function load() {
 				t: 'Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost.'
 			},
 			{
+				v: '1 Corinthians 13:4',
+				t: 'Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,'
+			},
+			{
 				v: '1 Corinthians 16:13-14',
 				t: 'Watch ye, stand fast in the faith, quit you like men, be strong. Let all your things be done with charity.'
 			},
@@ -817,7 +879,11 @@ window.addEventListener('load', function load() {
 				t: 'For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus\' sake.'
 			},
 			{
-				v: '2 Corinthians 5:7',
+				v: '2 Corinthians 5:6-7',
+				t: 'Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord: (For we walk by faith, not by sight:)'
+			},
+			{
+				v: '2 Corinthians 5:17',
 				t: 'Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.'
 			},
 			{
@@ -837,6 +903,34 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Ephesians 2:8-9',
 				t: 'For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast.'
+			},
+			{
+				v: 'Ephesians 5:11',
+				t: 'And have no fellowship with the unfruitful works of darkness, but rather reprove them.'
+			},
+			// Philippians
+			{
+				v: 'Philippians 4:13',
+				t: 'I can do all things through Christ which strengtheneth me.'
+			},
+			// Colossians
+			{
+				v: 'Colossians 1:15',
+				t: 'Who is the image of the invisible God, the firstborn of every creature:'
+			},
+			// 1 Thessalonians
+			{
+				v: '1 Thessalonians 5:18',
+				t: 'In every thing give thanks: for this is the will of God in Christ Jesus concerning you.'
+			},
+			{
+				v: '1 Thessalonians 5:21',
+				t: 'Prove all things; hold fast that which is good.'
+			},
+			// 2 Thessalonians
+			{
+				v: '2 Thessalonians 2:3',
+				t: 'Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;'
 			},
 			// 1 Timothy
 			{
@@ -863,8 +957,16 @@ window.addEventListener('load', function load() {
 			},
 			// Hebrews
 			{
+				v: 'Hebrews 11:1',
+				t: 'Now faith is the substance of things hoped for, the evidence of things not seen.'
+			},
+			{
 				v: 'Hebrews 11:6',
 				t: 'But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.'
+			},
+			{
+				v: 'Hebrews 12:14',
+				t: 'Follow peace with all men, and holiness, without which no man shall see the Lord:'
 			},
 			// James
 			{
@@ -921,6 +1023,10 @@ window.addEventListener('load', function load() {
 				t: 'Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:'
 			},
 			// 1 John
+			{
+				v: '1 John 1:9',
+				t: 'If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.'
+			},
 			{
 				v: '1 John 3:1',
 				t: 'Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.'
