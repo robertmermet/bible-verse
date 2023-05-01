@@ -37,16 +37,72 @@ window.addEventListener('load', function load() {
 			},
 			// Psalms
 			{
-				v: 'Psalms 9:10',
+				v: 'Psalm 1:1',
+				t: 'Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.'
+			},
+			{
+				v: 'Psalm 9:1',
+				t: 'I will praise thee, O <span class="small-caps">Lord</span>, with my whole heart; I will shew forth all thy marvellous works.'
+			},
+			{
+				v: 'Psalm 9:10',
 				t: 'And they that know thy name will put their trust in thee: for thou, <span class="small-caps">Lord</span>, hast not forsaken them that seek thee.'
 			},
 			{
-				v: 'Psalms 23:1',
+				v: 'Psalm 14:1',
+				t: 'The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.'
+			},
+			{
+				v: 'Psalm 16:8',
+				t: 'I have set the <span class="small-caps">Lord</span> always before me: because he is at my right hand, I shall not be moved.'
+			},
+			{
+				v: 'Psalm 19:1',
+				t: 'The heavens declare the glory of God; and the firmament sheweth his handywork.'
+			},
+			{
+				v: 'Psalm 19:7',
+				t: 'The law of the <span class="small-caps">Lord</span> is perfect, converting the soul: the testimony of the <span class="small-caps">Lord</span> is sure, making wise the simple.'
+			},
+			{
+				v: 'Psalm 23:1',
 				t: 'The <span class="small-caps">Lord</span> is my shepherd; I shall not want.'
 			},
 			{
-				v: 'Psalms 94:1-2',
+				v: 'Psalm 27:1',
+				t: 'The <span class="small-caps">Lord</span> is my light and my salvation; whom shall I fear? the <span class="small-caps">Lord</span> is the strength of my life; of whom shall I be afraid?'
+			},
+			{
+				v: 'Psalm 29:11',
+				t: 'The <span class="small-caps">Lord</span> will give strength unto his people; the <span class="small-caps">Lord</span> will bless his people with peace.'
+			},
+			{
+				v: 'Psalm 34:4',
+				t: 'I sought the <span class="small-caps">Lord</span>, and he heard me, and delivered me from all my fears.'
+			},
+			{
+				v: 'Psalm 34:18',
+				t: 'The <span class="small-caps">Lord</span> is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.'
+			},
+			{
+				v: 'Psalm 46:10',
+				t: 'Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.'
+			},
+			{
+				v: 'Psalm 55:22',
+				t: 'Cast thy burden upon the <span class="small-caps">Lord</span>, and he shall sustain thee: he shall never suffer the righteous to be moved.'
+			},
+			{
+				v: 'Psalm 94:1-2',
 				t: 'O <span class="small-caps">Lord</span> God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself. Lift up thyself, thou judge of the earth: render a reward to the proud.'
+			},
+			{
+				v: 'Psalm 111:10',
+				t: 'The fear of the <span class="small-caps">Lord</span> is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.'
+			},
+			{
+				v: 'Psalm 127:3',
+				t: 'Lo, children are an heritage of the <span class="small-caps">Lord</span>: and the fruit of the womb is his reward.'
 			},
 			// Proverbs
 			{
@@ -58,24 +114,84 @@ window.addEventListener('load', function load() {
 				t: 'The fear of the <span class="small-caps">Lord</span> is the beginning of knowledge: but fools despise wisdom and instruction.'
 			},
 			{
-				v: 'Proverbs 3:5',
-				t: 'Trust in the <span class="small-caps">Lord</span> with all thine heart; and lean not unto thine own understanding.'
+				v: 'Proverbs 1:29-31',
+				t: 'For that they hated knowledge, and did not choose the fear of the <span class="small-caps">Lord</span>: They would none of my counsel: they despised all my reproof. Therefore shall they eat of the fruit of their own way, and be filled with their own devices.'
 			},
 			{
-				v: 'Proverbs 3:6',
-				t: 'In all thy ways acknowledge him, and he shall direct thy paths.'
+				v: 'Proverbs 3:5-6',
+				t: 'Trust in the <span class="small-caps">Lord</span> with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths.'
+			},
+			{
+				v: 'Proverbs 3:9-10',
+				t: 'Honour the <span class="small-caps">Lord</span> with thy substance, and with the firstfruits of all thine increase: So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.'
 			},
 			{
 				v: 'Proverbs 6:16-19',
 				t: 'These six things doth the <span class="small-caps">Lord</span> hate: yea, seven are an abomination unto him: A proud look, a lying tongue, and hands that shed innocent blood, An heart that deviseth wicked imaginations, feet that be swift in running to mischief, A false witness that speaketh lies, and he that soweth discord among brethren.'
 			},
 			{
+				v: 'Proverbs 9:10',
+				t: 'The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is understanding.'
+			},
+			{
+				v: 'Proverbs 10:27-29',
+				t: 'The fear of the <span class="small-caps">Lord</span> prolongeth days: but the years of the wicked shall be shortened. The hope of the righteous shall be gladness: but the expectation of the wicked shall perish. The way of the <span class="small-caps">Lord</span> is strength to the upright: but destruction shall be to the workers of iniquity.'
+			},
+			{
+				v: 'Proverbs 12:11',
+				t: 'He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding.'
+			},
+			{
 				v: 'Proverbs 12:22',
 				t: 'Lying lips are abomination to the <span class="small-caps">Lord</span>: but they that deal truly are his delight.'
 			},
 			{
+				v: 'Proverbs 15:1',
+				t: 'A soft answer turneth away wrath: but grievous words stir up anger.'
+			},
+			{
+				v: 'Proverbs 16:3',
+				t: 'Commit thy works unto the <span class="small-caps">Lord</span>, and thy thoughts shall be established.'
+			},
+			{
+				v: 'Proverbs 16:18',
+				t: 'Pride goeth before destruction, and an haughty spirit before a fall.'
+			},
+			{
+				v: 'Proverbs 17:22',
+				t: 'A merry heart doeth good like a medicine: but a broken spirit drieth the bones.'
+			},
+			{
+				v: 'Proverbs 21:20',
+				t: 'There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.'
+			},
+			{
+				v: 'Proverbs 21:23',
+				t: 'Whoso keepeth his mouth and his tongue keepeth his soul from troubles.'
+			},
+			{
 				v: 'Proverbs 22:6',
 				t: 'Train up a child in the way he should go: and when he is old, he will not depart from it.'
+			},
+			{
+				v: 'Proverbs 22:7',
+				t: 'The rich ruleth over the poor, and the borrower is servant to the lender.'
+			},
+			{
+				v: 'Proverbs 22:15',
+				t: 'Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him.'
+			},
+			{
+				v: 'Proverbs 27:1',
+				t: 'Boast not thyself of to morrow; for thou knowest not what a day may bring forth.'
+			},
+			{
+				v: 'Proverbs 27:17',
+				t: 'Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.'
+			},
+			{
+				v: 'Proverbs 27:19',
+				t: 'As in water face answereth to face, so the heart of man to man.'
 			},
 			{
 				v: 'Proverbs 28:1',
@@ -86,8 +202,16 @@ window.addEventListener('load', function load() {
 				t: 'He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.'
 			},
 			{
+				v: 'Proverbs 29:11',
+				t: 'A fool uttereth all his mind: but a wise man keepeth it in till afterwards.'
+			},
+			{
 				v: 'Proverbs 30:5',
 				t: 'Every word of God is pure: he is a shield unto them that put their trust in him.'
+			},
+			{
+				v: 'Proverbs 31:8-9',
+				t: 'Open thy mouth for the dumb in the cause of all such as are appointed to destruction. Open thy mouth, judge righteously, and plead the cause of the poor and needy.'
 			},
 			{
 				v: 'Proverbs 31:10',
