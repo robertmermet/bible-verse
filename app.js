@@ -17,16 +17,16 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Genesis 1:27',
-				t: 'So God created man in his own image, in the image of God created he him; male and female created he them.'
+				t: 'So God created man in his <em>own</em> image, in the image of God created he him; male and female created he them.'
 			},
 			{
 				v: 'Genesis 2:23-24',
-				t: 'And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man. Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.'
+				t: 'And Adam said, This <em>is</em> now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man. Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.'
 			},
 			// Leviticus
 			{
 				v: 'Leviticus 19:18',
-				t: 'Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the <span class="small-caps">Lord</span>.'
+				t: 'Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I <em>am</em> the <span class="small-caps">Lord</span>.'
 			},
 			// Numbers
 			{
@@ -35,21 +35,25 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Numbers 14:18',
-				t: 'The <span class="small-caps">Lord</span> is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation.'
+				t: 'The <span class="small-caps">Lord</span> <em>is</em> longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing <em>the guilty</em>, visiting the iniquity of the fathers upon the children unto the third and fourth <em>generation</em>.'
 			},
 			// Deuteronomy
 			{
 				v: 'Deuteronomy 6:4',
-				t: 'Hear, O Israel: The <span class="small-caps">Lord</span> our God is one <span class="small-caps">Lord</span>:'
+				t: 'Hear, O Israel: The <span class="small-caps">Lord</span> our God <em>is</em> one <span class="small-caps">Lord</span>:'
+			},
+			{
+				v: 'Deuteronomy 18:10',
+				t: 'There shall not be found among you <em>any one</em> that maketh his son or his daughter to pass through the fire, <em>or</em> that useth divination, <em>or</em> an observer of times, or an enchanter, or a witch.'
 			},
 			{
 				v: 'Deuteronomy 31:6',
-				t: 'Be strong and of a good courage, fear not, nor be afraid of them: for the <span class="small-caps">Lord</span> thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.'
+				t: 'Be strong and of a good courage, fear not, nor be afraid of them: for the <span class="small-caps">Lord</span> thy God, he <em>it is</em> that doth go with thee; he will not fail thee, nor forsake thee.'
 			},
 			// Joshua
 			{
 				v: 'Joshua 1:9',
-				t: 'Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the <span class="small-caps">Lord</span> thy God is with thee whithersoever thou goest.'
+				t: 'Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the <span class="small-caps">Lord</span> thy God <em>is</em> with thee whithersoever thou goest.'
 			},
 			// 1 Chronicles
 			{
@@ -68,11 +72,11 @@ window.addEventListener('load', function load() {
 			// Psalms
 			{
 				v: 'Psalm 1:1',
-				t: 'Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.'
+				t: 'Blessed <em>is</em> the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.'
 			},
 			{
 				v: 'Psalm 9:1',
-				t: 'I will praise thee, O <span class="small-caps">Lord</span>, with my whole heart; I will shew forth all thy marvellous works.'
+				t: 'I will praise <em>thee</em>, O <span class="small-caps">Lord</span>, with my whole heart; I will shew forth all thy marvellous works.'
 			},
 			{
 				v: 'Psalm 9:10',
@@ -80,15 +84,15 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Psalm 14:1',
-				t: 'The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.'
+				t: 'The fool hath said in his heart, <em>There is</em> no God. They are corrupt, they have done abominable works, <em>there is</em> none that doeth good.'
 			},
 			{
 				v: 'Psalm 16:8',
-				t: 'I have set the <span class="small-caps">Lord</span> always before me: because he is at my right hand, I shall not be moved.'
+				t: 'I have set the <span class="small-caps">Lord</span> always before me: because <em>he is</em> at my right hand, I shall not be moved.'
 			},
 			{
 				v: 'Psalm 17:8-9',
-				t: 'Keep me as the apple of the eye, hide me under the shadow of thy wings, From the wicked that oppress me, from my deadly enemies, who compass me about.'
+				t: 'Keep me as the apple of the eye, hide me under the shadow of thy wings, From the wicked that oppress me, <em>from</em> my deadly enemies, <em>who</em> compass me about.'
 			},
 			{
 				v: 'Psalm 19:1',
@@ -96,19 +100,19 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Psalm 19:7',
-				t: 'The law of the <span class="small-caps">Lord</span> is perfect, converting the soul: the testimony of the <span class="small-caps">Lord</span> is sure, making wise the simple.'
+				t: 'The law of the <span class="small-caps">Lord</span> <em>is</em> perfect, converting the soul: the testimony of the <span class="small-caps">Lord</span> <em>is</em> sure, making wise the simple.'
 			},
 			{
 				v: 'Psalm 23:1',
-				t: 'The <span class="small-caps">Lord</span> is my shepherd; I shall not want.'
+				t: 'The <span class="small-caps">Lord</span> <em>is</em> my shepherd; I shall not want.'
 			},
 			{
 				v: 'Psalm 23:4',
-				t: 'Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.'
+				t: 'Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou <em>art</em> with me; thy rod and thy staff they comfort me.'
 			},
 			{
 				v: 'Psalm 27:1',
-				t: 'The <span class="small-caps">Lord</span> is my light and my salvation; whom shall I fear? the <span class="small-caps">Lord</span> is the strength of my life; of whom shall I be afraid?'
+				t: 'The <span class="small-caps">Lord</span> <em>is</em> my light and my salvation; whom shall I fear? the <span class="small-caps">Lord</span> <em>is</em> the strength of my life; of whom shall I be afraid?'
 			},
 			{
 				v: 'Psalm 29:11',
@@ -120,11 +124,11 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Psalm 34:18',
-				t: 'The <span class="small-caps">Lord</span> is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.'
+				t: 'The <span class="small-caps">Lord</span> <em>is</em> nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.'
 			},
 			{
 				v: 'Psalm 46:10',
-				t: 'Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.'
+				t: 'Be still, and know that I <em>am</em> God: I will be exalted among the heathen, I will be exalted in the earth.'
 			},
 			{
 				v: 'Psalm 55:22',
@@ -136,11 +140,11 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Psalm 111:10',
-				t: 'The fear of the <span class="small-caps">Lord</span> is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.'
+				t: 'The fear of the <span class="small-caps">Lord</span> is the beginning of wisdom: a good understanding have all they that do <em>his commandments</em>: his praise endureth for ever.'
 			},
 			{
 				v: 'Psalm 127:3',
-				t: 'Lo, children are an heritage of the <span class="small-caps">Lord</span>: and the fruit of the womb is his reward.'
+				t: 'Lo, children <em>are</em> an heritage of the <span class="small-caps">Lord</span>: <em>and</em> the fruit of the womb <em>is his</em> reward.'
 			},
 			{
 				v: 'Psalm 145:19-21',
@@ -149,11 +153,11 @@ window.addEventListener('load', function load() {
 			// Proverbs
 			{
 				v: 'Proverbs 1:5',
-				t: 'A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:'
+				t: 'A wise <em>man</em> will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:'
 			},
 			{
 				v: 'Proverbs 1:7',
-				t: 'The fear of the <span class="small-caps">Lord</span> is the beginning of knowledge: but fools despise wisdom and instruction.'
+				t: 'The fear of the <span class="small-caps">Lord</span> <em>is</em> the beginning of knowledge: <em>but</em> fools despise wisdom and instruction.'
 			},
 			{
 				v: 'Proverbs 1:29-31',
@@ -169,23 +173,23 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Proverbs 6:16-19',
-				t: 'These six things doth the <span class="small-caps">Lord</span> hate: yea, seven are an abomination unto him: A proud look, a lying tongue, and hands that shed innocent blood, An heart that deviseth wicked imaginations, feet that be swift in running to mischief, A false witness that speaketh lies, and he that soweth discord among brethren.'
+				t: 'These six <em>things</em> doth the <span class="small-caps">Lord</span> hate: yea, seven <em>are</em> an abomination unto him: A proud look, a lying tongue, and hands that shed innocent blood, An heart that deviseth wicked imaginations, feet that be swift in running to mischief, A false witness <em>that</em> speaketh lies, and he that soweth discord among brethren.'
 			},
 			{
 				v: 'Proverbs 9:10',
-				t: 'The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is understanding.'
+				t: 'The fear of the Lord <em>is</em> the beginning of wisdom: and the knowledge of the holy <em>is</em> understanding.'
 			},
 			{
 				v: 'Proverbs 10:27-29',
-				t: 'The fear of the <span class="small-caps">Lord</span> prolongeth days: but the years of the wicked shall be shortened. The hope of the righteous shall be gladness: but the expectation of the wicked shall perish. The way of the <span class="small-caps">Lord</span> is strength to the upright: but destruction shall be to the workers of iniquity.'
+				t: 'The fear of the <span class="small-caps">Lord</span> prolongeth days: but the years of the wicked shall be shortened. The hope of the righteous <em>shall be</em> gladness: but the expectation of the wicked shall perish. The way of the <span class="small-caps">Lord</span> <em>is</em> strength to the upright: but destruction <em>shall be</em> to the workers of iniquity.'
 			},
 			{
 				v: 'Proverbs 12:11',
-				t: 'He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding.'
+				t: 'He that tilleth his land shall be satisfied with bread: but he that followeth vain <em>persons is</em> void of understanding.'
 			},
 			{
 				v: 'Proverbs 12:22',
-				t: 'Lying lips are abomination to the <span class="small-caps">Lord</span>: but they that deal truly are his delight.'
+				t: 'Lying lips <em>are</em> abomination to the <span class="small-caps">Lord</span>: but they that deal truly <em>are</em> his delight.'
 			},
 			{
 				v: 'Proverbs 15:1',
@@ -197,15 +201,15 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Proverbs 16:18',
-				t: 'Pride goeth before destruction, and an haughty spirit before a fall.'
+				t: 'Pride <em>goeth</em> before destruction, and an haughty spirit before a fall.'
 			},
 			{
 				v: 'Proverbs 17:22',
-				t: 'A merry heart doeth good like a medicine: but a broken spirit drieth the bones.'
+				t: 'A merry heart doeth good <em>like</em> a medicine: but a broken spirit drieth the bones.'
 			},
 			{
 				v: 'Proverbs 21:20',
-				t: 'There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.'
+				t: '<em>There is</em> treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.'
 			},
 			{
 				v: 'Proverbs 21:23',
@@ -217,11 +221,11 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Proverbs 22:7',
-				t: 'The rich ruleth over the poor, and the borrower is servant to the lender.'
+				t: 'The rich ruleth over the poor, and the borrower <em>is</em> servant to the lender.'
 			},
 			{
 				v: 'Proverbs 22:15',
-				t: 'Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him.'
+				t: 'Foolishness <em>is</em> bound in the heart of a child; <em>but</em> the rod of correction shall drive it far from him.'
 			},
 			{
 				v: 'Proverbs 27:1',
@@ -233,7 +237,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Proverbs 27:19',
-				t: 'As in water face answereth to face, so the heart of man to man.'
+				t: 'As in water face <em>answereth</em> to face, so the heart of man to man.'
 			},
 			{
 				v: 'Proverbs 28:1',
@@ -241,15 +245,15 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Proverbs 28:13',
-				t: 'He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.'
+				t: 'He that covereth his sins shall not prosper: but whoso confesseth and forsaketh <em>them</em> shall have mercy.'
 			},
 			{
 				v: 'Proverbs 29:11',
-				t: 'A fool uttereth all his mind: but a wise man keepeth it in till afterwards.'
+				t: 'A fool uttereth all his mind: but a wise <em>man</em> keepeth it in till afterwards.'
 			},
 			{
 				v: 'Proverbs 30:5',
-				t: 'Every word of God is pure: he is a shield unto them that put their trust in him.'
+				t: 'Every word of God <em>is</em> pure: he <em>is</em> a shield unto them that put their trust in him.'
 			},
 			{
 				v: 'Proverbs 31:8-9',
@@ -257,7 +261,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Proverbs 31:10',
-				t: 'Who can find a virtuous woman? for her price is far above rubies.'
+				t: 'Who can find a virtuous woman? for her price <em>is</em> far above rubies.'
 			},
 			// Isaiah
 			{
@@ -266,7 +270,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Isaiah 8:20',
-				t: 'To the law and to the testimony: if they speak not according to this word, it is because there is no light in them.'
+				t: 'To the law and to the testimony: if they speak not according to this word, <em>it is</em> because <em>there is</em> no light in them.'
 			},
 			{
 				v: 'Isaiah 9:6',
@@ -274,7 +278,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Isaiah 40:31',
-				t: 'But they that wait upon the <span class="small-caps">Lord</span> shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.'
+				t: 'But they that wait upon the <span class="small-caps">Lord</span> shall renew <em>their</em> strength; they shall mount up with wings as eagles; they shall run, and not be weary; <em>and</em> they shall walk, and not faint.'
 			},
 			{
 				v: 'Isaiah 53:4',
@@ -282,7 +286,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Isaiah 53:5',
-				t: 'But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.'
+				t: 'But he <em>was</em> wounded for our transgressions, <em>he was</em> bruised for our iniquities: the chastisement of our peace <em>was</em> upon him; and with his stripes we are healed.'
 			},
 			{
 				v: 'Isaiah 53:6',
@@ -309,39 +313,39 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 5:3',
-				t: '<span class="red">Blessed are the poor in spirit: for theirs is the kingdom of heaven.</span>'
+				t: '<span class="red">Blessed <em>are</em> the poor in spirit: for theirs is the kingdom of heaven.</span>'
 			},
 			{
 				v: 'Matthew 5:4',
-				t: '<span class="red">Blessed are they that mourn: for they shall be comforted.</span>'
+				t: '<span class="red">Blessed <em>are</em> they that mourn: for they shall be comforted.</span>'
 			},
 			{
 				v: 'Matthew 5:5',
-				t: '<span class="red">Blessed are the meek: for they shall inherit the earth.</span>'
+				t: '<span class="red">Blessed <em>are</em> the meek: for they shall inherit the earth.</span>'
 			},
 			{
 				v: 'Matthew 5:6',
-				t: '<span class="red">Blessed are they which do hunger and thirst after righteousness: for they shall be filled.</span>'
+				t: '<span class="red">Blessed <em>are</em> they which do hunger and thirst after righteousness: for they shall be filled.</span>'
 			},
 			{
 				v: 'Matthew 5:7',
-				t: '<span class="red">Blessed are the merciful: for they shall obtain mercy.</span>'
+				t: '<span class="red">Blessed <em>are</em> the merciful: for they shall obtain mercy.</span>'
 			},
 			{
 				v: 'Matthew 5:8',
-				t: '<span class="red">Blessed are the pure in heart: for they shall see God.</span>'
+				t: '<span class="red">Blessed <em>are</em> the pure in heart: for they shall see God.</span>'
 			},
 			{
 				v: 'Matthew 5:9',
-				t: '<span class="red">Blessed are the peacemakers: for they shall be called the children of God.</span>'
+				t: '<span class="red">Blessed <em>are</em> the peacemakers: for they shall be called the children of God.</span>'
 			},
 			{
 				v: 'Matthew 5:10',
-				t: '<span class="red">Blessed are they which are persecuted for righteousness\' sake: for theirs is the kingdom of heaven.</span>'
+				t: '<span class="red">Blessed <em>are</em> they which are persecuted for righteousness\' sake: for theirs is the kingdom of heaven.</span>'
 			},
 			{
 				v: 'Matthew 5:11-12',
-				t: '<span class="red">Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.</span>'
+				t: '<span class="red">Blessed are <em>ye</em>, when men shall revile you, and persecute <em>you</em>, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great <em>is</em> your reward in heaven: for so persecuted they the prophets which were before you.</span>'
 			},
 			{
 				v: 'Matthew 5:13',
@@ -365,7 +369,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 5:19',
-				t: '<span class="red">Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven.</span>'
+				t: '<span class="red">Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach <em>them</em>, the same shall be called great in the kingdom of heaven.</span>'
 			},
 			{
 				v: 'Matthew 5:22',
@@ -381,11 +385,11 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 5:29',
-				t: '<span class="red">And if thy right eye offend thee, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.</span>'
+				t: '<span class="red">And if thy right eye offend thee, pluck it out, and cast <em>it</em> from thee: for it is profitable for thee that one of thy members should perish, and not <em>that</em> thy whole body should be cast into hell.</span>'
 			},
 			{
 				v: 'Matthew 5:30',
-				t: '<span class="red">And if thy right hand offend thee, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.</span>'
+				t: '<span class="red">And if thy right hand offend thee, cut it off, and cast <em>it</em> from thee: for it is profitable for thee that one of thy members should perish, and not <em>that</em> thy whole body should be cast into hell.</span>'
 			},
 			{
 				v: 'Matthew 5:36-37',
@@ -397,7 +401,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 5:40-41',
-				t: '<span class="red">And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also. And whosoever shall compel thee to go a mile, go with him twain.</span>'
+				t: '<span class="red">And if any man will sue thee at the law, and take away thy coat, let him have <em>thy</em> cloak also. And whosoever shall compel thee to go a mile, go with him twain.</span>'
 			},
 			{
 				v: 'Matthew 5:44-45',
@@ -417,7 +421,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 6:5',
-				t: '<span class="red">And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.</span>'
+				t: '<span class="red">And when thou prayest, thou shalt not be as the hypocrites <em>are</em>: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.</span>'
 			},
 			{
 				v: 'Matthew 6:6',
@@ -425,7 +429,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 6:7',
-				t: '<span class="red">But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking.</span>'
+				t: '<span class="red">But when ye pray, use not vain repetitions, as the heathen <em>do</em>: for they think that they shall be heard for their much speaking.</span>'
 			},
 			{
 				v: 'Matthew 6:17-18',
@@ -437,7 +441,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 6:22-23',
-				t: '<span class="red">The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light. But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!</span>'
+				t: '<span class="red">The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light. But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great <em>is</em> that darkness!</span>'
 			},
 			{
 				v: 'Matthew 6:24',
@@ -453,7 +457,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 6:34',
-				t: '<span class="red">Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.</span>'
+				t: '<span class="red">Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day <em>is</em> the evil thereof.</span>'
 			},
 			{
 				v: 'Matthew 7:1-2',
@@ -477,7 +481,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 7:13-14',
-				t: '<span class="red">Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.</span>'
+				t: '<span class="red">Enter ye in at the strait gate: for wide <em>is</em> the gate, and broad <em>is</em> the way, that leadeth to destruction, and many there be which go in thereat: Because strait <em>is</em> the gate, and narrow <em>is</em> the way, which leadeth unto life, and few there be that find it.</span>'
 			},
 			{
 				v: 'Matthew 7:15',
@@ -485,7 +489,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 7:18-20',
-				t: '<span class="red">A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit. Every tree that bringeth not forth good fruit is hewn down, and cast into the fire. Wherefore by their fruits ye shall know them.</span>'
+				t: '<span class="red">A good tree cannot bring forth evil fruit, neither <em>can</em> a corrupt tree bring forth good fruit. Every tree that bringeth not forth good fruit is hewn down, and cast into the fire. Wherefore by their fruits ye shall know them.</span>'
 			},
 			{
 				v: 'Matthew 7:21',
@@ -517,11 +521,11 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 11:28',
-				t: '<span class="red">Come unto me, all ye that labour and are heavy laden, and I will give you rest.</span>'
+				t: '<span class="red">Come unto me, all <em>ye</em> that labour and are heavy laden, and I will give you rest.</span>'
 			},
 			{
 				v: 'Matthew 11:29-30',
-				t: '<span class="red">Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke is easy, and my burden is light.</span>'
+				t: '<span class="red">Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke <em>is</em> easy, and my burden is light.</span>'
 			},
 			{
 				v: 'Matthew 16:26',
@@ -537,7 +541,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 18:3',
-				t: '<span class="red">And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.</span>'
+				t: 'And said, <span class="red">Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.</span>'
 			},
 			{
 				v: 'Matthew 18:11',
@@ -549,7 +553,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 19:26',
-				t: 'But Jesus beheld them, and said unto them, <span class="red">With men this is impossible; but with God all things are possible.</span>'
+				t: 'But Jesus beheld <em>them</em>, and said unto them, <span class="red">With men this is impossible; but with God all things are possible.</span>'
 			},
 			{
 				v: 'Matthew 20:16',
@@ -561,11 +565,11 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 22:37-39',
-				t: 'Jesus said unto him, <span class="red">Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself.</span>'
+				t: 'Jesus said unto him, <span class="red">Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second <em>is</em> like unto it, Thou shalt love thy neighbour as thyself.</span>'
 			},
 			{
 				v: 'Matthew 23:37',
-				t: '<span class="red">O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!</span>'
+				t: '<span class="red">O Jerusalem, Jerusalem, <em>thou</em> that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under <em>her</em> wings, and ye would not!</span>'
 			},
 			{
 				v: 'Matthew 24:14',
@@ -573,7 +577,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 24:24',
-				t: '<span class="red">For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect.</span>'
+				t: '<span class="red">For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if <em>it were</em> possible, they shall deceive the very elect.</span>'
 			},
 			{
 				v: 'Matthew 24:30',
@@ -581,7 +585,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 24:35-36',
-				t: '<span class="red">Heaven and earth shall pass away, but my words shall not pass away. But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only.</span>'
+				t: '<span class="red">Heaven and earth shall pass away, but my words shall not pass away. But of that day and hour knoweth no <em>man</em>, no, not the angels of heaven, but my Father only.</span>'
 			},
 			{
 				v: 'Matthew 25:13',
@@ -610,7 +614,7 @@ window.addEventListener('load', function load() {
 			// Mark
 			{
 				v: 'Mark 2:17',
-				t: 'When Jesus heard it, he saith unto them, <span class="red">They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance.</span>'
+				t: 'When Jesus heard <em>it</em>, he saith unto them, <span class="red">They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance.</span>'
 			},
 			{
 				v: 'Mark 4:22',
@@ -622,7 +626,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Mark 8:34',
-				t: 'And when he had called the people unto him with his disciples also, he said unto them, <span class="red">Whosoever will come after me, let him deny himself, and take up his cross, and follow me.</span>'
+				t: 'And when he had called the people <em>unto him</em> with his disciples also, he said unto them, <span class="red">Whosoever will come after me, let him deny himself, and take up his cross, and follow me.</span>'
 			},
 			{
 				v: 'Mark 10:24-25',
@@ -630,11 +634,11 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Mark 10:27',
-				t: 'And Jesus looking upon them saith, <span class="red">With men it is impossible, but not with God: for with God all things are possible.</span>'
+				t: 'And Jesus looking upon them saith, <span class="red">With men <em>it is</em> impossible, but not with God: for with God all things are possible.</span>'
 			},
 			{
 				v: 'Mark 12:30-31',
-				t: '<span class="red">And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this is the first commandment. And the second is like, namely this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.</span>'
+				t: '<span class="red">And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this <em>is</em> the first commandment. And the second <em>is</em> like, <em>namely</em> this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.</span>'
 			},
 			{
 				v: 'Mark 16:15-16',
@@ -647,31 +651,43 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Luke 6:22',
-				t: '<span class="red">Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man\'s sake.</span>'
+				t: '<span class="red">Blessed are ye, when men shall hate you, and when they shall separate you <em>from their company</em>, and shall reproach <em>you</em>, and cast out your name as evil, for the Son of man\'s sake.</span>'
 			},
 			{
 				v: 'Luke 6:28',
 				t: '<span class="red">Bless them that curse you, and pray for them which despitefully use you.</span>'
 			},
 			{
-				v: 'Luke 6:31',
-				t: '<span class="red">And as ye would that men should do to you, do ye also to them likewise.</span>'
+				v: 'Luke 6:30-31',
+				t: '<span class="red">Give to every man that asketh of thee; and of him that taketh away thy goods ask <em>them</em> not again. And as ye would that men should do to you, do ye also to them likewise.</span>'
 			},
 			{
 				v: 'Luke 8:17',
-				t: '<span class="red">For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad.</span>'
+				t: '<span class="red">For nothing is secret, that shall not be made manifest; neither <em>any thing</em> hid, that shall not be known and come abroad.</span>'
+			},
+			{
+				v: 'Luke 9:49-50',
+				t: 'And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us. And Jesus said unto him, <span class="red">Forbid <em>him</em> not: for he that is not against us is for us.</span>'
 			},
 			{
 				v: 'Luke 9:55-56',
-				t: 'But he turned, and rebuked them, and said, <span class="red">Ye know not what manner of spirit ye are of. For the Son of man is not come to destroy men\'s lives, but to save them.</span> And they went to another village.'
+				t: 'But he turned, and rebuked them, and said, <span class="red">Ye know not what manner of spirit ye are of. For the Son of man is not come to destroy men\'s lives, but to save <em>them</em>.</span> And they went to another village.'
+			},
+			{
+				v: 'Luke 9:59-60',
+				t: 'And he said unto another, <span class="red">Follow me.</span> But he said, Lord, suffer me first to go and bury my father. Jesus said unto him, <span class="red">Let the dead bury their dead: but go thou and preach the kingdom of God.</span>'
+			},
+			{
+				v: 'Luke 9:61-62',
+				t: 'And another also said, Lord, I will follow thee; but let me first go bid them farewell, which are at home at my house. And Jesus said unto him, <span class="red">No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.</span>'
 			},
 			{
 				v: 'Luke 11:33',
-				t: '<span class="red">No man, when he hath lighted a candle, putteth it in a secret place, neither under a bushel, but on a candlestick, that they which come in may see the light.</span>'
+				t: '<span class="red">No man, when he hath lighted a candle, putteth <em>it</em> in a secret place, neither under a bushel, but on a candlestick, that they which come in may see the light.</span>'
 			},
 			{
 				v: 'Luke 22:36',
-				t: 'Then said he unto them, <span class="red">But now, he that hath a purse, let him take it, and likewise his scrip: and he that hath no sword, let him sell his garment, and buy one.</span>'
+				t: 'Then said he unto them, <span class="red">But now, he that hath a purse, let him take <em>it</em>, and likewise <em>his</em> scrip: and he that hath no sword, let him sell his garment, and buy one.</span>'
 			},
 			{
 				v: 'Luke 23:34',
@@ -684,7 +700,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'John 1:12',
-				t: 'But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:'
+				t: 'But as many as received him, to them gave he power to become the sons of God, <em>even</em> to them that believe on his name:'
 			},
 			{
 				v: 'John 1:14',
@@ -704,7 +720,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'John 4:24',
-				t: '<span class="red">God is a Spirit: and they that worship him must worship him in spirit and in truth.</span>'
+				t: '<span class="red">God <em>is</em> a Spirit: and they that worship <em>him</em> must worship him in spirit and in truth.</span>'
 			},
 			{
 				v: 'John 5:24',
@@ -712,7 +728,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'John 7:4',
-				t: 'For there is no man that doeth any thing in secret, and he himself seeketh to be known openly. If thou do these things, shew thyself to the world.'
+				t: 'For <em>there is</em> no man <em>that</em> doeth any thing in secret, and he himself seeketh to be known openly. If thou do these things, shew thyself to the world.'
 			},
 			{
 				v: 'John 8:12',
@@ -728,7 +744,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'John 10:30',
-				t: '<span class="red">I and my Father are one.</span>'
+				t: '<span class="red">I and <em>my</em> Father are one.</span>'
 			},
 			{
 				v: 'John 13:34',
@@ -752,7 +768,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'John 15:5',
-				t: '<span class="red">I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.</span>'
+				t: '<span class="red">I am the vine, ye <em>are</em> the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.</span>'
 			},
 			{
 				v: 'John 15:13',
@@ -760,7 +776,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'John 15:18',
-				t: '<span class="red">If the world hate you, ye know that it hated me before it hated you.</span>'
+				t: '<span class="red">If the world hate you, ye know that it hated me before <em>it hated</em> you.</span>'
 			},
 			{
 				v: 'John 15:19',
@@ -822,15 +838,15 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Romans 6:23',
-				t: 'For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.'
+				t: 'For the wages of sin <em>is</em> death; but the gift of God <em>is</em> eternal life through Jesus Christ our Lord.'
 			},
 			{
 				v: 'Romans 8:1',
-				t: 'There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.'
+				t: '<em>There is</em> therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.'
 			},
 			{
 				v: 'Romans 8:28',
-				t: 'And we know that all things work together for good to them that love God, to them who are the called according to his purpose.'
+				t: 'And we know that all things work together for good to them that love God, to them who are the called according to <em>his</em> purpose.'
 			},
 			{
 				v: 'Romans 10:9',
@@ -842,11 +858,11 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Romans 12:2',
-				t: 'And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.'
+				t: 'And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what <em>is</em> that good, and acceptable, and perfect, will of God.'
 			},
 			{
 				v: 'Romans 12:19',
-				t: 'Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.'
+				t: 'Dearly beloved, avenge not yourselves, but <em>rather</em> give place unto wrath: for it is written, Vengeance <em>is</em> mine; I will repay, saith the Lord.'
 			},
 			{
 				v: 'Romans 16:17-18',
@@ -859,11 +875,11 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: '1 Corinthians 12:3',
-				t: 'Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost.'
+				t: 'Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and <em>that</em> no man can say that Jesus is the Lord, but by the Holy Ghost.'
 			},
 			{
 				v: '1 Corinthians 13:4',
-				t: 'Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,'
+				t: 'Charity suffereth long, <em>and</em> is kind; charity envieth not; charity vaunteth not itself, is not puffed up,'
 			},
 			{
 				v: '1 Corinthians 16:13-14',
@@ -880,15 +896,15 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: '2 Corinthians 5:6-7',
-				t: 'Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord: (For we walk by faith, not by sight:)'
+				t: 'Therefore <em>we are</em> always confident, knowing that, whilst we are at home in the body, we are absent from the Lord: (For we walk by faith, not by sight:)'
 			},
 			{
 				v: '2 Corinthians 5:17',
-				t: 'Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.'
+				t: 'Therefore if any man <em>be</em> in Christ, <em>he is</em> a new creature: old things are passed away; behold, all things are become new.'
 			},
 			{
 				v: '2 Corinthians 9:6',
-				t: 'But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully.'
+				t: 'But this <em>I say</em>, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully.'
 			},
 			// Galatians
 			{
@@ -902,11 +918,19 @@ window.addEventListener('load', function load() {
 			// Ephesians
 			{
 				v: 'Ephesians 2:8-9',
-				t: 'For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast.'
+				t: 'For by grace are ye saved through faith; and that not of yourselves: <em>it is</em> the gift of God: Not of works, lest any man should boast.'
 			},
 			{
 				v: 'Ephesians 5:11',
-				t: 'And have no fellowship with the unfruitful works of darkness, but rather reprove them.'
+				t: 'And have no fellowship with the unfruitful works of darkness, but rather reprove <em>them</em>.'
+			},
+			{
+				v: 'Ephesians 5:22-23',
+				t: 'Wives, submit yourselves unto your own husbands, as unto the Lord. For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.'
+			},
+			{
+				v: 'Ephesians 5:25',
+				t: 'Husbands, love your wives, even as Christ also loved the church, and gave himself for it;'
 			},
 			// Philippians
 			{
@@ -930,12 +954,12 @@ window.addEventListener('load', function load() {
 			// 2 Thessalonians
 			{
 				v: '2 Thessalonians 2:3',
-				t: 'Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;'
+				t: 'Let no man deceive you by any means: for <em>that day shall not come</em>, except there come a falling away first, and that man of sin be revealed, the son of perdition;'
 			},
 			// 1 Timothy
 			{
 				v: '1 Timothy 6:9-10',
-				t: 'But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition. For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.'
+				t: 'But they that will be rich fall into temptation and a snare, and <em>into</em> many foolish and hurtful lusts, which drown men in destruction and perdition. For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.'
 			},
 			// 2 Timothy
 			{
@@ -944,11 +968,11 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: '2 Timothy 3:16',
-				t: 'All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:'
+				t: 'All scripture <em>is</em> given by inspiration of God, and <em>is</em> profitable for doctrine, for reproof, for correction, for instruction in righteousness:'
 			},
 			{
 				v: '2 Timothy 4:7',
-				t: 'I have fought a good fight, I have finished my course, I have kept the faith:'
+				t: 'I have fought a good fight, I have finished <em>my</em> course, I have kept the faith:'
 			},
 			// Titus
 			{
@@ -962,20 +986,20 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Hebrews 11:6',
-				t: 'But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.'
+				t: 'But without faith <em>it is</em> impossible to please <em>him</em>: for he that cometh to God must believe that he is, and <em>that</em> he is a rewarder of them that diligently seek him.'
 			},
 			{
 				v: 'Hebrews 12:14',
-				t: 'Follow peace with all men, and holiness, without which no man shall see the Lord:'
+				t: 'Follow peace with all <em>men</em>, and holiness, without which no man shall see the Lord:'
 			},
 			// James
 			{
 				v: 'James 1:5',
-				t: 'If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.'
+				t: 'If any of you lack wisdom, let him ask of God, that giveth to all <em>men</em> liberally, and upbraideth not; and it shall be given him.'
 			},
 			{
 				v: 'James 1:12',
-				t: 'Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.'
+				t: 'Blessed <em>is</em> the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.'
 			},
 			{
 				v: 'James 1:13',
@@ -987,7 +1011,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'James 1:27',
-				t: 'Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.'
+				t: 'Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, <em>and</em> to keep himself unspotted from the world.'
 			},
 			{
 				v: 'James 2:26',
@@ -1007,7 +1031,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'James 5:16',
-				t: 'Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.'
+				t: 'Confess <em>your</em> faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.'
 			},
 			// 1 Peter
 			{
@@ -1025,7 +1049,7 @@ window.addEventListener('load', function load() {
 			// 1 John
 			{
 				v: '1 John 1:9',
-				t: 'If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.'
+				t: 'If we confess our sins, he is faithful and just to forgive us <em>our</em> sins, and to cleanse us from all unrighteousness.'
 			},
 			{
 				v: '1 John 3:1',
