@@ -135,6 +135,10 @@ window.addEventListener('load', function load() {
 				t: 'Cast thy burden upon the <span class="small-caps">Lord</span>, and he shall sustain thee: he shall never suffer the righteous to be moved.'
 			},
 			{
+				v: 'Psalm 91:1',
+				t: 'O Lord God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself. Lift up thyself, thou judge of the earth: render a reward to the proud.'
+			},
+			{
 				v: 'Psalm 94:1-2',
 				t: 'O <span class="small-caps">Lord</span> God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself. Lift up thyself, thou judge of the earth: render a reward to the proud.'
 			},
@@ -279,6 +283,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Isaiah 40:31',
 				t: 'But they that wait upon the <span class="small-caps">Lord</span> shall renew <em>their</em> strength; they shall mount up with wings as eagles; they shall run, and not be weary; <em>and</em> they shall walk, and not faint.'
+			},
+			{
+				v: 'Isaiah 43:11',
+				t: 'I, <em>even</em> I, <em>am</em> the <span class="small-caps">Lord</span>; and beside me <em>there is</em> no saviour.'
 			},
 			{
 				v: 'Isaiah 53:4',
@@ -504,6 +512,14 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock: And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.</span>'
 			},
 			{
+				v: 'Matthew 23:9-11',
+				t: '<span class="red">And call no <em>man</em> your father upon the earth: for one is your Father, which is in heaven. Neither be ye called masters: for one is your Master, <em>even</em> Christ. But he that is greatest among you shall be your servant.</span>'
+			},
+			{
+				v: 'Matthew 23:12',
+				t: '<span class="red">And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.</span>'
+			},
+			{
 				v: 'Matthew 10:16',
 				t: '<span class="red">Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.</span>'
 			},
@@ -570,6 +586,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Matthew 23:37',
 				t: '<span class="red">O Jerusalem, Jerusalem, <em>thou</em> that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under <em>her</em> wings, and ye would not!</span>'
+			},
+			{
+				v: 'Matthew 24:11',
+				t: '<span class="red">And many false prophets shall rise, and shall deceive many.</span>'
 			},
 			{
 				v: 'Matthew 24:14',
@@ -699,6 +719,14 @@ window.addEventListener('load', function load() {
 				t: 'In the beginning was the Word, and the Word was with God, and the Word was God.'
 			},
 			{
+				v: 'John 1:2-3',
+				t: 'The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made.'
+			},
+			{
+				v: 'John 1:5',
+				t: 'And the light shineth in darkness; and the darkness comprehended it not.'
+			},
+			{
 				v: 'John 1:12',
 				t: 'But as many as received him, to them gave he power to become the sons of God, <em>even</em> to them that believe on his name:'
 			},
@@ -709,6 +737,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'John 3:3',
 				t: 'Jesus answered and said unto him, <span class="red">Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.</span>'
+			},
+			{
+				v: 'John 3:5-6',
+				t: 'Jesus answered, <span class="red">Verily, verily, I say unto thee, Except a man be born of water and <em>of</em> the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.</span>'
 			},
 			{
 				v: 'John 3:16',
@@ -857,6 +889,10 @@ window.addEventListener('load', function load() {
 				t: 'For whosoever shall call upon the name of the Lord shall be saved.'
 			},
 			{
+				v: 'Romans 11:36',
+				t: 'For of him, and through him, and to him, <em>are</em> all things: to whom <em>be</em> glory for ever. Amen.'
+			},
+			{
 				v: 'Romans 12:2',
 				t: 'And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what <em>is</em> that good, and acceptable, and perfect, will of God.'
 			},
@@ -880,6 +916,10 @@ window.addEventListener('load', function load() {
 			{
 				v: '1 Corinthians 13:4',
 				t: 'Charity suffereth long, <em>and</em> is kind; charity envieth not; charity vaunteth not itself, is not puffed up,'
+			},
+			{
+				v: '1 Corinthians 15:10',
+				t: 'But by the grace of God I am what I am: and his grace which <em>was bestowed</em> upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.'
 			},
 			{
 				v: '1 Corinthians 16:13-14',
@@ -921,6 +961,10 @@ window.addEventListener('load', function load() {
 				t: 'For by grace are ye saved through faith; and that not of yourselves: <em>it is</em> the gift of God: Not of works, lest any man should boast.'
 			},
 			{
+				v: 'Ephesians 2:10',
+				t: 'For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.'
+			},
+			{
 				v: 'Ephesians 5:11',
 				t: 'And have no fellowship with the unfruitful works of darkness, but rather reprove <em>them</em>.'
 			},
@@ -931,6 +975,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Ephesians 5:25',
 				t: 'Husbands, love your wives, even as Christ also loved the church, and gave himself for it;'
+			},
+			{
+				v: 'Ephesians 6:12',
+				t: 'For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high <em>places</em>.'
 			},
 			// Philippians
 			{
@@ -957,6 +1005,10 @@ window.addEventListener('load', function load() {
 				t: 'Let no man deceive you by any means: for <em>that day shall not come</em>, except there come a falling away first, and that man of sin be revealed, the son of perdition;'
 			},
 			// 1 Timothy
+			{
+				v: '1 Timothy 3:16',
+				t: 'And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.'
+			},
 			{
 				v: '1 Timothy 6:9-10',
 				t: 'But they that will be rich fall into temptation and a snare, and <em>into</em> many foolish and hurtful lusts, which drown men in destruction and perdition. For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.'
@@ -1050,6 +1102,10 @@ window.addEventListener('load', function load() {
 			{
 				v: '1 John 1:9',
 				t: 'If we confess our sins, he is faithful and just to forgive us <em>our</em> sins, and to cleanse us from all unrighteousness.'
+			},
+			{
+				v: '1 John 2:18',
+				t: 'Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.'
 			},
 			{
 				v: '1 John 3:1',
