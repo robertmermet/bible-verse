@@ -23,6 +23,47 @@ window.addEventListener('load', function load() {
 				v: 'Genesis 2:23-24',
 				t: 'And Adam said, This <em>is</em> now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man. Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.'
 			},
+			// Exodus
+			{
+				v: 'Exodus 20:3',
+				t: 'Thou shalt have no other gods before me.'
+			},
+			{
+				v: 'Exodus 20:4',
+				t: 'Thou shalt not make unto thee any graven image, or any likeness <em>of any thing</em> that <em>is</em> in heaven above, or that <em>is</em> in the earth beneath, or that <em>is</em> in the water under the earth.'
+			},
+			{
+				v: 'Exodus 20:7',
+				t: 'Thou shalt not take the name of the <span class="small-caps">Lord</span> thy God in vain; for the <span class="small-caps">Lord</span> will not hold him guiltless that taketh his name in vain.'
+			},
+			{
+				v: 'Exodus 20:8-10',
+				t: 'Remember the sabbath day, to keep it holy. Six days shalt thou labour, and do all thy work: But the seventh day <em>is</em> the sabbath of the <span class="small-caps">Lord</span> thy God: <em>in it</em> thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that <em>is</em> within thy gates:'
+			},
+			{
+				v: 'Exodus 20:12',
+				t: 'Honour thy father and thy mother: that thy days may be long upon the land which the <span class="small-caps">Lord</span> thy God giveth thee.'
+			},
+			{
+				v: 'Exodus 20:13',
+				t: 'Thou shalt not kill.'
+			},
+			{
+				v: 'Exodus 20:14',
+				t: 'Thou shalt not commit adultery.'
+			},
+			{
+				v: 'Exodus 20:15',
+				t: 'Thou shalt not steal.'
+			},
+			{
+				v: 'Exodus 20:16',
+				t: 'Thou shalt not bear false witness against thy neighbour.'
+			},
+			{
+				v: 'Exodus 20:17',
+				t: 'Thou shalt not covet thy neighbour\'s house, thou shalt not covet thy neighbour\'s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that <em>is</em> thy neighbour\'s.'
+			},
 			// Leviticus
 			{
 				v: 'Leviticus 19:18',
@@ -39,8 +80,12 @@ window.addEventListener('load', function load() {
 			},
 			// Deuteronomy
 			{
-				v: 'Deuteronomy 6:4',
-				t: 'Hear, O Israel: The <span class="small-caps">Lord</span> our God <em>is</em> one <span class="small-caps">Lord</span>:'
+				v: 'Deuteronomy 5:9-10',
+				t: 'Thou shalt not bow down thyself unto them, nor serve them: for I the <span class="small-caps">Lord</span> thy God <em>am</em> a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth <em>generation</em> of them that hate me, And shewing mercy unto thousands of them that love me and keep my commandments.'
+			},
+			{
+				v: 'Deuteronomy 6:4-5',
+				t: 'Hear, O Israel: The <span class="small-caps">Lord</span> our God <em>is</em> one <span class="small-caps">Lord</span>: And thou shalt love the <span class="small-caps">Lord</span> thy God with all thine heart, and with all thy soul, and with all thy might.'
 			},
 			{
 				v: 'Deuteronomy 18:10',
@@ -299,6 +344,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Isaiah 53:6',
 				t: 'All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all.'
+			},
+			{
+				v: 'Isaiah 53:10',
+				t: 'Yet it pleased the <span class="small-caps">Lord</span> to bruise him; he hath put <em>him</em> to grief: when thou shalt make his soul an offering for sin, he shall see <em>his</em> seed, he shall prolong <em>his</em> days, and the pleasure of the <span class="small-caps">Lord</span> shall prosper in his hand.'
 			},
 			{
 				v: 'Isaiah 55:7',
@@ -1112,6 +1161,10 @@ window.addEventListener('load', function load() {
 				t: 'Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.'
 			},
 			// Revelation
+			{
+				v: 'Revelation 17:14',
+				t: 'These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him <em>are</em> called, and chosen, and faithful.'
+			},
 			{
 				v: 'Revelation 21:8',
 				t: 'But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.'
