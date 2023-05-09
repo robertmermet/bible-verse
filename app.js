@@ -88,6 +88,10 @@ window.addEventListener('load', function load() {
 				t: 'Hear, O Israel: The <span class="small-caps">Lord</span> our God <em>is</em> one <span class="small-caps">Lord</span>: And thou shalt love the <span class="small-caps">Lord</span> thy God with all thine heart, and with all thy soul, and with all thy might.'
 			},
 			{
+				v: 'Deuteronomy 10:12-13',
+				t: 'And now, Israel, what doth the <span class="small-caps">Lord</span> thy God require of thee, but to fear the <span class="small-caps">Lord</span> thy God, to walk in all his ways, and to love him, and to serve the <span class="small-caps">Lord</span> thy God with all thy heart and with all thy soul, To keep the commandments of the <span class="small-caps">Lord</span>, and his statutes, which I command thee this day for thy good?'
+			},
+			{
 				v: 'Deuteronomy 18:10',
 				t: 'There shall not be found among you <em>any one</em> that maketh his son or his daughter to pass through the fire, <em>or</em> that useth divination, <em>or</em> an observer of times, or an enchanter, or a witch.'
 			},
@@ -113,6 +117,10 @@ window.addEventListener('load', function load() {
 			{
 				v: '2 Chronicles 15:7',
 				t: 'Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded.'
+			},
+			{
+				v: '2 Chronicles 20:15',
+				t: 'And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the <span class="small-caps">Lord</span> unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle <em>is</em> not yours, but God\'s.'
 			},
 			// Psalms
 			{
@@ -192,6 +200,10 @@ window.addEventListener('load', function load() {
 				t: 'The fear of the <span class="small-caps">Lord</span> is the beginning of wisdom: a good understanding have all they that do <em>his commandments</em>: his praise endureth for ever.'
 			},
 			{
+				v: 'Psalm 119:89',
+				t: 'For ever, O <span class="small-caps">Lord</span>, thy word is settled in heaven.'
+			},
+			{
 				v: 'Psalm 127:3',
 				t: 'Lo, children <em>are</em> an heritage of the <span class="small-caps">Lord</span>: <em>and</em> the fruit of the womb <em>is his</em> reward.'
 			},
@@ -267,6 +279,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Proverbs 22:6',
 				t: 'Train up a child in the way he should go: and when he is old, he will not depart from it.'
+			},
+			{
+				v: 'Proverbs 22:7',
+				t: 'The rich ruleth over the poor, and the borrower <em>is</em> servant to the lender.'
 			},
 			{
 				v: 'Proverbs 22:7',
@@ -955,6 +971,10 @@ window.addEventListener('load', function load() {
 			},
 			// 1 Corinthians
 			{
+				v: '1 Corinthians 2:14',
+				t: 'But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know <em>them</em>, because they are spiritually discerned.'
+			},
+			{
 				v: '1 Corinthians 6:9-10',
 				t: 'Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind, Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.'
 			},
@@ -999,6 +1019,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Galatians 2:20',
 				t: 'I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.'
+			},
+			{
+				v: 'Galatians 5:14',
+				t: 'For all the law is fulfilled in one word, <em>even</em> in this; Thou shalt love thy neighbour as thyself.'
 			},
 			{
 				v: 'Galatians 5:22',
@@ -1093,6 +1117,10 @@ window.addEventListener('load', function load() {
 				v: 'Hebrews 12:14',
 				t: 'Follow peace with all <em>men</em>, and holiness, without which no man shall see the Lord:'
 			},
+			{
+				v: 'Hebrews 13:8',
+				t: 'Jesus Christ the same yesterday, and to day, and for ever.'
+			},
 			// James
 			{
 				v: 'James 1:5',
@@ -1159,6 +1187,10 @@ window.addEventListener('load', function load() {
 			{
 				v: '1 John 3:1',
 				t: 'Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.'
+			},
+			{
+				v: '1 John 3:8',
+				t: 'He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil'
 			},
 			// Revelation
 			{

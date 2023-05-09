@@ -16,11 +16,13 @@ div {
 
 p {
 	font-size: 48px;
+	text-align: center;
 	user-select: none;
 }
 
-p#verse {
-	text-align: center;
+span#text {
+	display: inline-block;
+	text-align: left;
 }
 
 span.red {
