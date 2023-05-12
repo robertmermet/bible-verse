@@ -160,8 +160,16 @@ window.addEventListener('load', function load() {
 				t: 'The <span class="small-caps">Lord</span> <em>is</em> my shepherd; I shall not want.'
 			},
 			{
+				v: 'Psalm 23:3',
+				t: 'He restoreth my soul: he leadeth me in the paths of righteousness for his name\'s sake.'
+			},
+			{
 				v: 'Psalm 23:4',
 				t: 'Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou <em>art</em> with me; thy rod and thy staff they comfort me.'
+			},
+			{
+				v: 'Psalm 25:8-9',
+				t: 'Good and upright <em>is</em> the <span class="small-caps">Lord</span>: therefore will he teach sinners in the way. The meek will he guide in judgment: and the meek will he teach his way.'
 			},
 			{
 				v: 'Psalm 27:1',
@@ -198,6 +206,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Psalm 111:10',
 				t: 'The fear of the <span class="small-caps">Lord</span> is the beginning of wisdom: a good understanding have all they that do <em>his commandments</em>: his praise endureth for ever.'
+			},
+			{
+				v: 'Psalm 113:3',
+				t: 'From the rising of the sun unto the going down of the same the <span class="small-caps">Lord</span>\'s name <em>is</em> to be praised.'
 			},
 			{
 				v: 'Psalm 119:89',
@@ -251,6 +263,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Proverbs 12:22',
 				t: 'Lying lips <em>are</em> abomination to the <span class="small-caps">Lord</span>: but they that deal truly <em>are</em> his delight.'
+			},
+			{
+				v: 'Proverbs 13:13',
+				t: 'Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded.'
 			},
 			{
 				v: 'Proverbs 15:1',
@@ -327,6 +343,11 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Proverbs 31:10',
 				t: 'Who can find a virtuous woman? for her price <em>is</em> far above rubies.'
+			},
+			// Ecclesiastes
+			{
+				v: 'Ecclesiastes 1:9',
+				t: 'The thing that hath been, it <em>is that</em> which shall be; and that which is done <em>is</em> that which shall be done: and <em>there is</em> no new <em>thing</em> under the sun.'
 			},
 			// Isaiah
 			{
@@ -905,6 +926,10 @@ window.addEventListener('load', function load() {
 				t: 'Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.'
 			},
 			{
+				v: 'Acts 14:22',
+				t: 'Confirming the souls of the disciples, <em>and</em> exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God.'
+			},
+			{
 				v: 'Acts 20:29',
 				t: 'For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.'
 			},
@@ -946,6 +971,10 @@ window.addEventListener('load', function load() {
 				t: 'And we know that all things work together for good to them that love God, to them who are the called according to <em>his</em> purpose.'
 			},
 			{
+				v: 'Romans 8:31',
+				t: 'What shall we then say to these things? If God <em>be</em> for us, who <em>can be</em> against us?'
+			},
+			{
 				v: 'Romans 10:9',
 				t: 'That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.'
 			},
@@ -964,6 +993,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Romans 12:19',
 				t: 'Dearly beloved, avenge not yourselves, but <em>rather</em> give place unto wrath: for it is written, Vengeance <em>is</em> mine; I will repay, saith the Lord.'
+			},
+			{
+				v: 'Romans 12:21',
+				t: 'Be not overcome of evil, but overcome evil with good.'
 			},
 			{
 				v: 'Romans 16:17-18',
@@ -1055,6 +1088,10 @@ window.addEventListener('load', function load() {
 			},
 			// Philippians
 			{
+				v: 'Philippians 4:4-5',
+				t: 'Rejoice in the Lord always: <em>and</em> again I say, Rejoice. Let your moderation be known unto all men. The Lord <em>is</em> at hand.'
+			},
+			{
 				v: 'Philippians 4:13',
 				t: 'I can do all things through Christ which strengtheneth me.'
 			},
@@ -1092,8 +1129,8 @@ window.addEventListener('load', function load() {
 				t: 'Yea, and all that will live godly in Christ Jesus shall suffer persecution.'
 			},
 			{
-				v: '2 Timothy 3:16',
-				t: 'All scripture <em>is</em> given by inspiration of God, and <em>is</em> profitable for doctrine, for reproof, for correction, for instruction in righteousness:'
+				v: '2 Timothy 3:16-17',
+				t: 'All scripture <em>is</em> given by inspiration of God, and <em>is</em> profitable for doctrine, for reproof, for correction, for instruction in righteousness: That the man of God may be perfect, throughly furnished unto all good works.'
 			},
 			{
 				v: '2 Timothy 4:7',
@@ -1159,6 +1196,10 @@ window.addEventListener('load', function load() {
 				t: 'Submit yourselves therefore to God. Resist the devil, and he will flee from you.'
 			},
 			{
+				v: 'James 5:13',
+				t: 'Is any among you afflicted? let him pray. Is any merry? let him sing psalms.'
+			},
+			{
 				v: 'James 5:16',
 				t: 'Confess <em>your</em> faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.'
 			},
@@ -1177,8 +1218,16 @@ window.addEventListener('load', function load() {
 			},
 			// 1 John
 			{
+				v: '1 John 1:7',
+				t: 'But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.'
+			},
+			{
 				v: '1 John 1:9',
 				t: 'If we confess our sins, he is faithful and just to forgive us <em>our</em> sins, and to cleanse us from all unrighteousness.'
+			},
+			{
+				v: '1 John 2:15',
+				t: 'Love not the world, neither the things <em>that are</em> in the world. If any man love the world, the love of the Father is not in him.'
 			},
 			{
 				v: '1 John 2:18',
@@ -1193,6 +1242,10 @@ window.addEventListener('load', function load() {
 				t: 'He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil'
 			},
 			// Revelation
+			{
+				v: 'Revelation 1:8',
+				t: '<span class="red">I am Alpha and Omega, the beginning and the ending</span>, saith the Lord, which is, and which was, and which is to come, the Almighty.'
+			},
 			{
 				v: 'Revelation 17:14',
 				t: 'These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him <em>are</em> called, and chosen, and faithful.'
