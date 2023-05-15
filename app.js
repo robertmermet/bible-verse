@@ -23,6 +23,10 @@ window.addEventListener('load', function load() {
 				v: 'Genesis 2:23-24',
 				t: 'And Adam said, This <em>is</em> now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man. Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.'
 			},
+			{
+				v: 'Genesis 3:19',
+				t: 'In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou <em>art</em>, and unto dust shalt thou return.'
+			},
 			// Exodus
 			{
 				v: 'Exodus 20:3',
@@ -309,6 +313,10 @@ window.addEventListener('load', function load() {
 				t: 'Foolishness <em>is</em> bound in the heart of a child; <em>but</em> the rod of correction shall drive it far from him.'
 			},
 			{
+				v: 'Proverbs 24:19-20',
+				t: 'Fret not thyself because of evil <em>men</em>, neither be thou envious at the wicked: For there shall be no reward to the evil <em>man</em>; the candle of the wicked shall be put out.'
+			},
+			{
 				v: 'Proverbs 27:1',
 				t: 'Boast not thyself of to morrow; for thou knowest not what a day may bring forth.'
 			},
@@ -343,6 +351,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Proverbs 31:10',
 				t: 'Who can find a virtuous woman? for her price <em>is</em> far above rubies.'
+			},
+			{
+				v: 'Proverbs 31:30',
+				t: 'Favour <em>is</em> deceitful, and beauty <em>is</em> vain: <em>but</em> a woman <em>that</em> feareth the <span class="small-caps">Lord</span>, she shall be praised.'
 			},
 			// Ecclesiastes
 			{
@@ -389,6 +401,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Isaiah 55:7',
 				t: 'Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the <span class="small-caps">Lord</span>, and he will have mercy upon him; and to our God, for he will abundantly pardon.'
+			},
+			{
+				v: 'Isaiah 55:8-9',
+				t: 'For my thoughts <em>are</em> not your thoughts, neither <em>are</em> your ways my ways, saith the <span class="small-caps">Lord</span>. For <em>as</em> the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.'
 			},
 			// Jeremiah
 			{
@@ -639,7 +655,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 17:20',
-				t: '<span class="red">And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.</span>'
+				t: 'And Jesus said unto them, <span class="red">Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.</span>'
 			},
 			{
 				v: 'Matthew 18:3',
@@ -869,6 +885,10 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.</span>'
 			},
 			{
+				v: 'John 12:46',
+				t: '<span class="red">I am come a light into the world, that whosoever believeth on me should not abide in darkness.</span>'
+			},
+			{
 				v: 'John 14:1',
 				t: '<span class="red">Let not your heart be troubled: ye believe in God, believe also in me.</span>'
 			},
@@ -987,8 +1007,8 @@ window.addEventListener('load', function load() {
 				t: 'For of him, and through him, and to him, <em>are</em> all things: to whom <em>be</em> glory for ever. Amen.'
 			},
 			{
-				v: 'Romans 12:2',
-				t: 'And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what <em>is</em> that good, and acceptable, and perfect, will of God.'
+				v: 'Romans 12:1-2',
+				t: 'I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, <em>which is</em> your reasonable service. And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what <em>is</em> that good, and acceptable, and perfect, will of God.'
 			},
 			{
 				v: 'Romans 12:19',
