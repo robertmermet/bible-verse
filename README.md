@@ -1,6 +1,6 @@
 # Bible Verse
 
-Displays a selected Bible verse, or multiple selected Bible verses, from the KJV.
+Displays a selected Bible verse, or verses, from the KJV.
 You can change the Bible verse by pressing spacebar or by left clicking on the page.
 
 #### Change Verse Order
