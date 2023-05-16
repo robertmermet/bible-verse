@@ -220,6 +220,10 @@ window.addEventListener('load', function load() {
 				t: 'For ever, O <span class="small-caps">Lord</span>, thy word is settled in heaven.'
 			},
 			{
+				v: 'Psalm 127:1',
+				t: 'Except the <span class="small-caps">Lord</span> build the house, they labour in vain that build it: except the Lord keep the city, the watchman waketh <em>but</em> in vain.'
+			},
+			{
 				v: 'Psalm 127:3',
 				t: 'Lo, children <em>are</em> an heritage of the <span class="small-caps">Lord</span>: <em>and</em> the fruit of the womb <em>is his</em> reward.'
 			},
@@ -283,6 +287,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Proverbs 16:18',
 				t: 'Pride <em>goeth</em> before destruction, and an haughty spirit before a fall.'
+			},
+			{
+				v: 'Proverbs 17:15',
+				t: 'He that justifieth the wicked, and he that condemneth the just, even they both <em>are</em> abomination to the <span class="small-caps">Lord</span>.'
 			},
 			{
 				v: 'Proverbs 17:22',
@@ -909,6 +917,10 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">I am the vine, ye <em>are</em> the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.</span>'
 			},
 			{
+				v: 'John 15:9',
+				t: '<span class="red">As the Father hath loved me, so have I loved you: continue ye in my love.</span>'
+			},
+			{
 				v: 'John 15:13',
 				t: '<span class="red">Greater love hath no man than this, that a man lay down his life for his friends.</span>'
 			},
@@ -1259,7 +1271,11 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: '1 John 3:8',
-				t: 'He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil'
+				t: 'He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.'
+			},
+			{
+				v: '1 John 4:19',
+				t: 'We love him, because he first loved us.'
 			},
 			// Revelation
 			{
@@ -1276,25 +1292,36 @@ window.addEventListener('load', function load() {
 			},
 		];
 
-	let spaceKeyDown = false;
+	const PROPERTIES = {
+		order: 'random'
+	}
 
-	function getRandomVerse() {
-		let arrLen = BIBLE_VERSES.length;
-		if (arrLen) {
-			let randNum = Math.floor(Math.random() * arrLen),
-				verse = BIBLE_VERSES[randNum];
-			BIBLE_VERSES.splice(randNum, 1);
-			document.getElementById('text').innerHTML = verse.t;
-			document.getElementById('verse').innerHTML = verse.v;
-		} else {
+	let urlParams = new URL(window.location.toLocaleString()).searchParams,
+		spaceKeyDown = false;
+
+	function getVerse() {
+		let arrLen = BIBLE_VERSES.length,
+			verse;
+		if (!arrLen) {
+			// If BIBLE_VERSES is empty, reload the page.
 			location.reload();
+		} else if (PROPERTIES.order == 'sequential') {
+			verse = BIBLE_VERSES[0];
+			BIBLE_VERSES.splice(0, 1);
+		} else { 
+			// The default order is "random"
+			let randNum = Math.floor(Math.random() * arrLen);
+			verse = BIBLE_VERSES[randNum];
+			BIBLE_VERSES.splice(randNum, 1);
 		}
+		document.getElementById('text').innerHTML = verse.t;
+		document.getElementById('verse').innerHTML = verse.v;
 	}
 
 	document.addEventListener('keydown', function(e) {
 		if (e.code == 'Space' && !spaceKeyDown) {
 			spaceKeyDown = true;
-			getRandomVerse();
+			getVerse();
 		}
 	}, false);
 
@@ -1305,9 +1332,13 @@ window.addEventListener('load', function load() {
 	}, false);
 
 	document.addEventListener('click', function() {
-		getRandomVerse();
+		getVerse();
 	}, false);
 
-	getRandomVerse();
+	if (urlParams.get('order') == 'sequential') {
+		PROPERTIES.order = 'sequential';
+	}
+
+	getVerse();
 
 }, true);
