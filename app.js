@@ -225,7 +225,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Psalm 91:1',
-				t: 'O Lord God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself. Lift up thyself, thou judge of the earth: render a reward to the proud.'
+				t: 'He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.'
 			},
 			{
 				v: 'Psalm 94:1-2',
@@ -363,6 +363,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Proverbs 27:19',
 				t: 'As in water face <em>answereth</em> to face, so the heart of man to man.'
+			},
+			{
+				v: 'Proverbs 27:21',
+				t: '<em>As</em> the fining pot for silver, and the furnace for gold; so <em>is</em> a man to his praise.'
 			},
 			{
 				v: 'Proverbs 28:1',
