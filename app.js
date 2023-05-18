@@ -84,6 +84,10 @@ window.addEventListener('load', function load() {
 			},
 			// Deuteronomy
 			{
+				v: 'Deuteronomy 4:2',
+				t: 'Ye shall not add unto the word which I command you, neither shall ye diminish <em>ought</em> from it, that ye may keep the commandments of the <span class="small-caps">Lord</span> your God which I command you.'
+			},
+			{
 				v: 'Deuteronomy 5:9-10',
 				t: 'Thou shalt not bow down thyself unto them, nor serve them: for I the <span class="small-caps">Lord</span> thy God <em>am</em> a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth <em>generation</em> of them that hate me, And shewing mercy unto thousands of them that love me and keep my commandments.'
 			},
@@ -92,12 +96,24 @@ window.addEventListener('load', function load() {
 				t: 'Hear, O Israel: The <span class="small-caps">Lord</span> our God <em>is</em> one <span class="small-caps">Lord</span>: And thou shalt love the <span class="small-caps">Lord</span> thy God with all thine heart, and with all thy soul, and with all thy might.'
 			},
 			{
+				v: 'Deuteronomy 6:13',
+				t: 'Thou shalt fear the <span class="small-caps">Lord</span> thy God, and serve him, and shalt swear by his name.'
+			},
+			{
+				v: 'Deuteronomy 6:17',
+				t: 'Ye shall diligently keep the commandments of the <span class="small-caps">Lord</span> your God, and his testimonies, and his statutes, which he hath commanded thee.'
+			},
+			{
 				v: 'Deuteronomy 10:12-13',
 				t: 'And now, Israel, what doth the <span class="small-caps">Lord</span> thy God require of thee, but to fear the <span class="small-caps">Lord</span> thy God, to walk in all his ways, and to love him, and to serve the <span class="small-caps">Lord</span> thy God with all thy heart and with all thy soul, To keep the commandments of the <span class="small-caps">Lord</span>, and his statutes, which I command thee this day for thy good?'
 			},
 			{
 				v: 'Deuteronomy 18:10',
 				t: 'There shall not be found among you <em>any one</em> that maketh his son or his daughter to pass through the fire, <em>or</em> that useth divination, <em>or</em> an observer of times, or an enchanter, or a witch.'
+			},
+			{
+				v: 'Deuteronomy 22:5',
+				t: 'The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman\'s garment: for all that do so <em>are</em> abomination unto the <span class="small-caps">Lord</span> thy God.'
 			},
 			{
 				v: 'Deuteronomy 31:6',
@@ -130,6 +146,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Psalm 1:1',
 				t: 'Blessed <em>is</em> the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.'
+			},
+			{
+				v: 'Psalm 2:2-3',
+				t: 'The kings of the earth set themselves, and the rulers take counsel together, against the <span class="small-caps">Lord</span>, and against his anointed, <em>saying</em>, Let us break their bands asunder, and cast away their cords from us.'
 			},
 			{
 				v: 'Psalm 9:1',
@@ -182,6 +202,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Psalm 29:11',
 				t: 'The <span class="small-caps">Lord</span> will give strength unto his people; the <span class="small-caps">Lord</span> will bless his people with peace.'
+			},
+			{
+				v: 'Psalm 31:14-15',
+				t: 'But I trusted in thee, O <span class="small-caps">Lord</span>: I said, Thou <em>art</em> my God. My times <em>are</em> in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.'
 			},
 			{
 				v: 'Psalm 34:4',
@@ -247,6 +271,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Proverbs 3:5-6',
 				t: 'Trust in the <span class="small-caps">Lord</span> with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths.'
+			},
+			{
+				v: 'Proverbs 3:7',
+				t: 'Be not wise in thine own eyes: fear the <span class="small-caps">Lord</span>, and depart from evil.'
 			},
 			{
 				v: 'Proverbs 3:9-10',
@@ -418,6 +446,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Jeremiah 29:11',
 				t: 'For I know the thoughts that I think toward you, saith the <span class="small-caps">Lord</span>, thoughts of peace, and not of evil, to give you an expected end.'
+			},
+			{
+				v: 'Jeremiah 31:25',
+				t: 'For I have satiated the weary soul, and I have replenished every sorrowful soul.'
 			},
 			// Hosea
 			{
@@ -602,8 +634,8 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">Enter ye in at the strait gate: for wide <em>is</em> the gate, and broad <em>is</em> the way, that leadeth to destruction, and many there be which go in thereat: Because strait <em>is</em> the gate, and narrow <em>is</em> the way, which leadeth unto life, and few there be that find it.</span>'
 			},
 			{
-				v: 'Matthew 7:15',
-				t: '<span class="red">Beware of false prophets, which come to you in sheep\'s clothing, but inwardly they are ravening wolves.</span>'
+				v: 'Matthew 7:15-16',
+				t: '<span class="red">Beware of false prophets, which come to you in sheep\'s clothing, but inwardly they are ravening wolves. Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?</span>'
 			},
 			{
 				v: 'Matthew 7:18-20',
@@ -658,6 +690,10 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?</span>'
 			},
 			{
+				v: 'Matthew 16:24-25',
+				t: 'Then said Jesus unto his disciples, <span class="red">If any <em>man</em> will come after me, let him deny himself, and take up his cross, and follow me. For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.</span>'
+			},
+			{
 				v: 'Matthew 16:27',
 				t: '<span class="red">For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.</span>'
 			},
@@ -700,6 +736,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Matthew 24:11',
 				t: '<span class="red">And many false prophets shall rise, and shall deceive many.</span>'
+			},
+			{
+				v: 'Matthew 24:13',
+				t: '<span class="red">But he that shall endure unto the end, the same shall be saved.</span>'
 			},
 			{
 				v: 'Matthew 24:14',
@@ -1031,6 +1071,10 @@ window.addEventListener('load', function load() {
 				t: 'Be not overcome of evil, but overcome evil with good.'
 			},
 			{
+				v: 'Romans 14:11',
+				t: 'For it is written, <em>As</em> I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God.'
+			},
+			{
 				v: 'Romans 16:17-18',
 				t: 'Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them. For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.'
 			},
@@ -1093,6 +1137,10 @@ window.addEventListener('load', function load() {
 				v: 'Galatians 5:22',
 				t: 'But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,'
 			},
+			{
+				v: 'Galatians 6:9',
+				t: 'And let us not be weary in well doing: for in due season we shall reap, if we faint not.'
+			},
 			// Ephesians
 			{
 				v: 'Ephesians 2:8-9',
@@ -1118,6 +1166,10 @@ window.addEventListener('load', function load() {
 				v: 'Ephesians 6:12',
 				t: 'For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high <em>places</em>.'
 			},
+			{
+				v: 'Ephesians 6:13',
+				t: 'Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.'
+			},
 			// Philippians
 			{
 				v: 'Philippians 4:4-5',
@@ -1131,6 +1183,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Colossians 1:15',
 				t: 'Who is the image of the invisible God, the firstborn of every creature:'
+			},
+			{
+				v: 'Colossians 3:2',
+				t: 'Set your affection on things above, not on things on the earth.'
 			},
 			// 1 Thessalonians
 			{
@@ -1147,6 +1203,10 @@ window.addEventListener('load', function load() {
 				t: 'Let no man deceive you by any means: for <em>that day shall not come</em>, except there come a falling away first, and that man of sin be revealed, the son of perdition;'
 			},
 			// 1 Timothy
+			{
+				v: '1 Timothy 2:11-12',
+				t: 'Let the woman learn in silence with all subjection. But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.'
+			},
 			{
 				v: '1 Timothy 3:16',
 				t: 'And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.'
@@ -1172,6 +1232,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Titus 2:11-12',
 				t: 'For the grace of God that bringeth salvation hath appeared to all men, Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;'
+			},
+			{
+				v: 'Titus 3:5',
+				t: 'Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;'
 			},
 			// Hebrews
 			{
@@ -1210,6 +1274,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'James 1:27',
 				t: 'Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, <em>and</em> to keep himself unspotted from the world.'
+			},
+			{
+				v: 'James 2:18',
+				t: 'Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works.'
 			},
 			{
 				v: 'James 2:26',
@@ -1294,7 +1362,7 @@ window.addEventListener('load', function load() {
 
 	const PROPERTIES = {
 		order: 'random'
-	}
+	};
 
 	let urlParams = new URL(window.location.toLocaleString()).searchParams,
 		spaceKeyDown = false;
