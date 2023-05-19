@@ -350,7 +350,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Proverbs 24:19-20',
-				t: 'Fret not thyself because of evil <em>men</em>, neither be thou envious at the wicked: For there shall be no reward to the evil <em>man</em>; the candle of the wicked shall be put out.'
+				t: 'Fret not thyself because of evil <em>men</em>, neither be thou envious at the wicked; For there shall be no reward to the evil <em>man</em>; the candle of the wicked shall be put out.'
 			},
 			{
 				v: 'Proverbs 27:1',
@@ -499,7 +499,7 @@ window.addEventListener('load', function load() {
 			},
 			{
 				v: 'Matthew 5:11-12',
-				t: '<span class="red">Blessed are <em>ye</em>, when men shall revile you, and persecute <em>you</em>, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great <em>is</em> your reward in heaven: for so persecuted they the prophets which were before you.</span>'
+				t: '<span class="red">Blessed are ye, when <em>men</em> shall revile you, and persecute <em>you</em>, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great <em>is</em> your reward in heaven: for so persecuted they the prophets which were before you.</span>'
 			},
 			{
 				v: 'Matthew 5:13',
@@ -658,14 +658,6 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock: And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.</span>'
 			},
 			{
-				v: 'Matthew 23:9-11',
-				t: '<span class="red">And call no <em>man</em> your father upon the earth: for one is your Father, which is in heaven. Neither be ye called masters: for one is your Master, <em>even</em> Christ. But he that is greatest among you shall be your servant.</span>'
-			},
-			{
-				v: 'Matthew 23:12',
-				t: '<span class="red">And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.</span>'
-			},
-			{
 				v: 'Matthew 10:16',
 				t: '<span class="red">Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.</span>'
 			},
@@ -732,6 +724,14 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Matthew 22:37-39',
 				t: 'Jesus said unto him, <span class="red">Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second <em>is</em> like unto it, Thou shalt love thy neighbour as thyself.</span>'
+			},
+			{
+				v: 'Matthew 23:9-11',
+				t: '<span class="red">And call no <em>man</em> your father upon the earth: for one is your Father, which is in heaven. Neither be ye called masters: for one is your Master, <em>even</em> Christ. But he that is greatest among you shall be your servant.</span>'
+			},
+			{
+				v: 'Matthew 23:12',
+				t: '<span class="red">And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.</span>'
 			},
 			{
 				v: 'Matthew 23:37',
@@ -1132,6 +1132,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Galatians 2:20',
 				t: 'I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.'
+			},
+			{
+				v: 'Galatians 3:28',
+				t: 'There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.'
 			},
 			{
 				v: 'Galatians 5:14',
