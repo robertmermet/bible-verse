@@ -252,6 +252,10 @@ window.addEventListener('load', function load() {
 				t: 'Lo, children <em>are</em> an heritage of the <span class="small-caps">Lord</span>: <em>and</em> the fruit of the womb <em>is his</em> reward.'
 			},
 			{
+				v: 'Psalm 143:10',
+				t: 'Teach me to do thy will; for thou <em>art</em> my God: thy spirit <em>is</em> good; lead me into the land of uprightness.'
+			},
+			{
 				v: 'Psalm 145:19-21',
 				t: 'He will fulfil the desire of them that fear him: he also will hear their cry, and will save them. The <span class="small-caps">Lord</span> preserveth all them that love him: but all the wicked will he destroy. My mouth shall speak the praise of the <span class="small-caps">Lord</span>: and let all flesh bless his holy name for ever and ever.'
 			},
@@ -305,8 +309,20 @@ window.addEventListener('load', function load() {
 				t: 'Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded.'
 			},
 			{
+				v: 'Proverbs 14:12',
+				t: 'There is a way which seemeth right unto a man, but the end thereof <em>are</em> the ways of death.'
+			},
+			{
+				v: 'Proverbs 14:29',
+				t: '<em>He that is</em> slow to wrath <em>is</em> of great understanding: but <em>he that is</em> hasty of spirit exalteth folly.'
+			},
+			{
 				v: 'Proverbs 15:1',
 				t: 'A soft answer turneth away wrath: but grievous words stir up anger.'
+			},
+			{
+				v: 'Proverbs 15:3',
+				t: 'The eyes of the <span class="small-caps">Lord</span> <em>are</em> in every place, beholding the evil and the good.'
 			},
 			{
 				v: 'Proverbs 16:3',
@@ -315,6 +331,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Proverbs 16:18',
 				t: 'Pride <em>goeth</em> before destruction, and an haughty spirit before a fall.'
+			},
+			{
+				v: 'Proverbs 16:32',
+				t: '<em>He that is</em> slow to anger <em>is</em> better than the mighty; and he that ruleth his spirit than he that taketh a city.'
 			},
 			{
 				v: 'Proverbs 17:15',
@@ -454,6 +474,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Jeremiah 31:25',
 				t: 'For I have satiated the weary soul, and I have replenished every sorrowful soul.'
+			},
+			{
+				v: 'Jeremiah 32:27',
+				t: 'Behold, I <em>am</em> the <span class="small-caps">Lord</span>, the God of all flesh: is there any thing too hard for me?'
 			},
 			// Hosea
 			{
@@ -998,6 +1022,10 @@ window.addEventListener('load', function load() {
 				t: 'Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.'
 			},
 			{
+				v: 'Acts 3:19',
+				t: 'Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;'
+			},
+			{
 				v: 'Acts 4:12',
 				t: 'Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.'
 			},
@@ -1073,6 +1101,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Romans 12:21',
 				t: 'Be not overcome of evil, but overcome evil with good.'
+			},
+			{
+				v: 'Romans 13:8',
+				t: 'Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.'
 			},
 			{
 				v: 'Romans 14:11',
@@ -1209,6 +1241,10 @@ window.addEventListener('load', function load() {
 			{
 				v: '2 Thessalonians 2:3',
 				t: 'Let no man deceive you by any means: for <em>that day shall not come</em>, except there come a falling away first, and that man of sin be revealed, the son of perdition;'
+			},
+			{
+				v: '2 Thessalonians 3:3',
+				t: 'But the Lord is faithful, who shall stablish you, and keep <em>you</em> from evil.'
 			},
 			// 1 Timothy
 			{
@@ -1348,6 +1384,10 @@ window.addEventListener('load', function load() {
 			{
 				v: '1 John 3:8',
 				t: 'He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.'
+			},
+			{
+				v: '1 John 4:8',
+				t: 'He that loveth not knoweth not God; for God is love.'
 			},
 			{
 				v: '1 John 4:19',
