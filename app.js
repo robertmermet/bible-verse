@@ -1409,7 +1409,8 @@ window.addEventListener('load', function load() {
 		];
 
 	const PROPERTIES = {
-		order: 'random'
+		order: 'random',
+		redLetter: true
 	};
 
 	let urlParams = new URL(window.location.toLocaleString()).searchParams,
@@ -1430,7 +1431,11 @@ window.addEventListener('load', function load() {
 			verse = BIBLE_VERSES[randNum];
 			BIBLE_VERSES.splice(randNum, 1);
 		}
-		document.getElementById('text').innerHTML = verse.t;
+		if (PROPERTIES.redLetter) {
+			document.getElementById('text').innerHTML = verse.t;
+		} else {
+			document.getElementById('text').innerHTML = verse.t.replace(/class="red"/g, '');
+		}
 		document.getElementById('verse').innerHTML = verse.v;
 	}
 
@@ -1453,6 +1458,10 @@ window.addEventListener('load', function load() {
 
 	if (urlParams.get('order') == 'sequential') {
 		PROPERTIES.order = 'sequential';
+	}
+
+	if (urlParams.get('red-letter') == 'off') {
+		PROPERTIES.redLetter = false;
 	}
 
 	getVerse();
