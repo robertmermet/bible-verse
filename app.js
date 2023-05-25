@@ -216,6 +216,10 @@ window.addEventListener('load', function load() {
 				t: 'The <span class="small-caps">Lord</span> <em>is</em> nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.'
 			},
 			{
+				v: 'Psalm 41:1',
+				t: 'Blessed <em>is</em> he that considereth the poor: the <span class="small-caps">Lord</span> will deliver him in time of trouble.'
+			},
+			{
 				v: 'Psalm 46:10',
 				t: 'Be still, and know that I <em>am</em> God: I will be exalted among the heathen, I will be exalted in the earth.'
 			},
@@ -234,6 +238,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Psalm 111:10',
 				t: 'The fear of the <span class="small-caps">Lord</span> is the beginning of wisdom: a good understanding have all they that do <em>his commandments</em>: his praise endureth for ever.'
+			},
+			{
+				v: 'Psalm 112:7',
+				t: 'He shall not be afraid of evil tidings: his heart is fixed, trusting in the <span class="small-caps">Lord</span>.'
 			},
 			{
 				v: 'Psalm 113:3',
@@ -353,12 +361,12 @@ window.addEventListener('load', function load() {
 				t: 'Whoso keepeth his mouth and his tongue keepeth his soul from troubles.'
 			},
 			{
-				v: 'Proverbs 22:6',
-				t: 'Train up a child in the way he should go: and when he is old, he will not depart from it.'
+				v: 'Proverbs 22:2',
+				t: 'The rich and poor meet together: the <span class="small-caps">Lord</span> <em>is</em> the maker of them all.'
 			},
 			{
-				v: 'Proverbs 22:7',
-				t: 'The rich ruleth over the poor, and the borrower <em>is</em> servant to the lender.'
+				v: 'Proverbs 22:6',
+				t: 'Train up a child in the way he should go: and when he is old, he will not depart from it.'
 			},
 			{
 				v: 'Proverbs 22:7',
@@ -925,6 +933,10 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.</span>'
 			},
 			{
+				v: 'John 3:18-19',
+				t: '<span class="red">He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God. And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.</span>'
+			},
+			{
 				v: 'John 3:20',
 				t: '<span class="red">For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.</span>'
 			},
@@ -1093,6 +1105,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Romans 12:1-2',
 				t: 'I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, <em>which is</em> your reasonable service. And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what <em>is</em> that good, and acceptable, and perfect, will of God.'
+			},
+			{
+				v: 'Romans 12:17-18',
+				t: 'Recompense to no man evil for evil. Provide things honest in the sight of all men. If it be possible, as much as lieth in you, live peaceably with all men.'
 			},
 			{
 				v: 'Romans 12:19',
@@ -1316,6 +1332,10 @@ window.addEventListener('load', function load() {
 				t: 'Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:'
 			},
 			{
+				v: 'James 1:22',
+				t: 'But be ye doers of the word, and not hearers only, deceiving your own selves.'
+			},
+			{
 				v: 'James 1:27',
 				t: 'Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, <em>and</em> to keep himself unspotted from the world.'
 			},
@@ -1359,6 +1379,11 @@ window.addEventListener('load', function load() {
 			{
 				v: '1 Peter 5:8',
 				t: 'Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:'
+			},
+			// 2 Peter
+			{
+				v: '2 Peter 3:9',
+				t: 'The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.'
 			},
 			// 1 John
 			{
