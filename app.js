@@ -124,6 +124,15 @@ window.addEventListener('load', function load() {
 				v: 'Joshua 1:9',
 				t: 'Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the <span class="small-caps">Lord</span> thy God <em>is</em> with thee whithersoever thou goest.'
 			},
+			{
+				v: 'Joshua 24:15',
+				t: 'And if it seem evil unto you to serve the <span class="small-caps">Lord</span>, choose you this day whom ye will serve; whether the gods which your fathers served that <em>were</em> on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the <span class="small-caps">Lord</span>.'
+			},
+			// 1 Samuel
+			{
+				v: '1 Samuel 2:2',
+				t: '<em>There is</em> none holy as the <span class="small-caps">Lord</span>: for <em>there is</em> none beside thee: neither <em>is there</em> any rock like our God.'
+			},
 			// 1 Chronicles
 			{
 				v: '1 Chronicles 16:11',
@@ -831,8 +840,16 @@ window.addEventListener('load', function load() {
 				t: '<span class="red">And whosoever shall not receive you, nor hear you, when ye depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.</span>'
 			},
 			{
+				v: 'Mark 7:21-23',
+				t: '<span class="red">For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders, Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness: All these evil things come from within, and defile the man.</span>'
+			},
+			{
 				v: 'Mark 8:34',
 				t: 'And when he had called the people <em>unto him</em> with his disciples also, he said unto them, <span class="red">Whosoever will come after me, let him deny himself, and take up his cross, and follow me.</span>'
+			},
+			{
+				v: 'Mark 9:43',
+				t: '<span class="red">And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:</span>'
 			},
 			{
 				v: 'Mark 10:24-25',
@@ -841,6 +858,14 @@ window.addEventListener('load', function load() {
 			{
 				v: 'Mark 10:27',
 				t: 'And Jesus looking upon them saith, <span class="red">With men <em>it is</em> impossible, but not with God: for with God all things are possible.</span>'
+			},
+			{
+				v: 'Mark 10:45',
+				t: '<span class="red">For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.</span>'
+			},
+			{
+				v: 'Mark 11:24',
+				t: '<span class="red">Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive <em>them</em>, and ye shall have <em>them</em>.</span>'
 			},
 			{
 				v: 'Mark 12:30-31',
@@ -987,6 +1012,10 @@ window.addEventListener('load', function load() {
 			{
 				v: 'John 14:15',
 				t: '<span class="red">If ye love me, keep my commandments.</span>'
+			},
+			{
+				v: 'John 14:23',
+				t: 'Jesus answered and said unto him, <span class="red">If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.</span>'
 			},
 			{
 				v: 'John 14:27',
@@ -1152,6 +1181,10 @@ window.addEventListener('load', function load() {
 				t: 'But by the grace of God I am what I am: and his grace which <em>was bestowed</em> upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.'
 			},
 			{
+				v: '1 Corinthians 15:57',
+				t: 'But thanks <em>be</em> to God, which giveth us the victory through our Lord Jesus Christ.'
+			},
+			{
 				v: '1 Corinthians 16:13-14',
 				t: 'Watch ye, stand fast in the faith, quit you like men, be strong. Let all your things be done with charity.'
 			},
@@ -1171,6 +1204,10 @@ window.addEventListener('load', function load() {
 			{
 				v: '2 Corinthians 5:17',
 				t: 'Therefore if any man <em>be</em> in Christ, <em>he is</em> a new creature: old things are passed away; behold, all things are become new.'
+			},
+			{
+				v: '2 Corinthians 5:21',
+				t: 'For our sake he made him <em>to be</em> sin who knew no sin, so that in him we might become the righteousness of God.'
 			},
 			{
 				v: '2 Corinthians 9:6',
@@ -1246,8 +1283,8 @@ window.addEventListener('load', function load() {
 			},
 			// 1 Thessalonians
 			{
-				v: '1 Thessalonians 5:18',
-				t: 'In every thing give thanks: for this is the will of God in Christ Jesus concerning you.'
+				v: '1 Thessalonians 5:16-18',
+				t: 'Rejoice evermore. Pray without ceasing. In every thing give thanks: for this is the will of God in Christ Jesus concerning you.'
 			},
 			{
 				v: '1 Thessalonians 5:21',
